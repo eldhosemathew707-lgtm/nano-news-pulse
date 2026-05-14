@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NanoPulse 2026</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background: radial-gradient(circle at top, #1e293b 0%, #0f172a 100%); min-height: 100vh; color: #f8fafc; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.1); }
+    </style>
+</head>
+<body class="p-6 md:p-12">
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-12">
+            <h1 class="text-4xl font-bold tracking-tight text-sky-400">NanoPulse <span class="text-white">Aggregator</span></h1>
+            <p class="text-slate-400 mt-2">Latest global developments in Nanoscience & Engineering.</p>
+        </header>
+
+        <div id="news-list" class="space-y-4">
+            <!-- News items will appear here -->
+        </div>
+    </div>
+
+    <script>
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById('news-list');
+                container.innerHTML = data.map(item => `
+                    <div class="glass p-6 rounded-2xl transition hover:scale-[1.01] hover:border-sky-500/50">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="text-xs font-semibold uppercase tracking-widest text-sky-400">${item.source}</span>
+                            <span class="text-xs text-slate-500">${item.updated}</span>
+                        </div>
+                        <a href="${item.link}" target="_blank" class="text-xl font-medium hover:text-sky-300 transition block">
+                            ${item.title}
+                        </a>
+                    </div>
+                `).join('');
+            });
+    </script>
+</body>
+</html>
