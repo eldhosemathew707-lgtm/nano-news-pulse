@@ -6,24 +6,20 @@
     <title>NanoNews | Global Intelligence</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #020617; color: #f8fafc; font-family: 'Inter', sans-serif; }
-        .nano-card { transition: all 0.2s ease-in-out; border-left: 4px solid transparent; }
-        .nano-card:hover { border-left-color: #38bdf8; background: #0f172a; }
-        .badge-medicine { background: #db2777; }
-        .badge-energy { background: #059669; }
-        .badge-electronics { background: #4f46e5; }
-        .badge-materials { background: #d97706; }
+        body { background-color: #020617; color: #f8fafc; font-family: sans-serif; }
+        .news-card { border-bottom: 1px solid #1e293b; transition: background 0.2s; }
+        .news-card:hover { background-color: #0f172a; }
     </style>
 </head>
-<body class="p-6 md:p-12">
-    <div class="max-w-4xl mx-auto">
-        <header class="mb-12 border-b border-slate-800 pb-6">
-            <h1 class="text-4xl font-black tracking-tighter text-sky-400">NANONEWS</h1>
-            <p class="text-slate-400 text-sm mt-1 uppercase tracking-widest">Global Nano-Scale Intelligence Aggregator</p>
+<body class="p-6 md:p-20">
+    <div class="max-w-3xl mx-auto">
+        <header class="mb-12">
+            <h1 class="text-5xl font-black tracking-tighter text-sky-400">NANONEWS</h1>
+            <p class="text-slate-400 mt-2 font-medium">Real-time Global Nanotechnology Aggregator</p>
         </header>
 
-        <div id="news-list" class="space-y-4">
-            <!-- News items will load here -->
+        <div id="news-list" class="space-y-1">
+            <!-- Data will load here -->
         </div>
     </div>
 
@@ -33,22 +29,18 @@
             .then(data => {
                 const container = document.getElementById('news-list');
                 container.innerHTML = data.map(item => `
-                    <div class="nano-card bg-slate-900/40 p-5 rounded-r-xl border-y border-r border-slate-800">
-                        <div class="flex items-center gap-3 mb-2">
-                            <span class="badge-${item.category.toLowerCase()} text-[10px] font-bold px-2 py-0.5 rounded text-white">
-                                ${item.category}
-                            </span>
-                            <span class="text-xs font-bold text-slate-500 uppercase">${item.source}</span>
-                        </div>
-                        <a href="${item.link}" target="_blank" class="text-lg font-semibold hover:text-sky-400 transition block mb-2">
+                    <div class="news-card py-6">
+                        <span class="text-[10px] font-bold text-sky-500 uppercase tracking-widest">${item.source}</span>
+                        <a href="${item.link}" target="_blank" class="text-xl font-bold block hover:text-sky-300 transition mt-1">
                             ${item.title}
                         </a>
-                        <div class="text-[10px] text-slate-600 font-mono">${item.date}</div>
+                        <p class="text-xs text-slate-500 mt-2 italic">${item.date}</p>
                     </div>
                 `).join('');
             })
-            .catch(err => {
-                document.getElementById('news-list').innerHTML = "<p class='text-red-400'>Data still syncing... please trigger the GitHub Action manually.</p>";
+            .catch(() => {
+                document.getElementById('news-list').innerHTML = 
+                    "<div class='p-4 bg-blue-900/20 text-blue-400 rounded'>Data is currently syncing. Please trigger the GitHub Action and wait 1 minute.</div>";
             });
     </script>
 </body>
