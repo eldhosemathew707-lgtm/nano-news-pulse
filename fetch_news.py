@@ -1,46 +1,20 @@
 import feedparser
 import json
-import re
-from datetime import datetime
 
-# MAXIMUM SOURCES LIST (2026 TOP TIER)
+# MAXIMUM SOURCES LIST
 SOURCES = [
-    # Top Journals
-    "http://feeds.nature.com/nnano/rss/current",        # Nature Nanotechnology
-    "https://pubs.acs.org/journal/ancac3/feed",         # ACS Nano
-    "https://pubs.rsc.org/en/journals/journalissues/nr/rss", # RSC Nanoscale
-    "https://onlinelibrary.wiley.com/feed/16136829/most-recent", # Small (Wiley)
-    "https://onlinelibrary.wiley.com/feed/15214095/most-recent", # Advanced Materials
-    
-    # Research Institutes
-    "https://news.mit.edu/topic/nanotech",              # MIT
-    "https://cnm.anl.gov/pages/news",                   # Argonne National Lab
-    "https://www.nano.gov/rss/news.xml",                # US NNI
-    
-    # Industry & High-Volume
-    "https://www.nanowerk.com/nwfeedcomplete.xml",      # Nanowerk
-    "https://phys.org/rss-feed/nanotechnology-news/",   # Phys.org
-    "https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml", # ScienceDaily
-    "https://www.azonano.com/syndication.axd?format=rss", # AZoNano
-    "https://www.nanotechnologyworld.org/blog-feed.xml" # Nanotechnology World
+    "http://feeds.nature.com/nnano/rss/current",
+    "https://pubs.acs.org/journal/ancac3/feed",
+    "https://pubs.rsc.org/en/journals/journalissues/nr/rss",
+    "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
+    "https://news.mit.edu/topic/nanotech",
+    "https://cnm.anl.gov/pages/news",
+    "https://www.nano.gov/rss/news.xml",
+    "https://www.nanowerk.com/nwfeedcomplete.xml",
+    "https://phys.org/rss-feed/nanotechnology-news/",
+    "https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml",
+    "https://www.azonano.com/syndication.axd?format=rss"
 ]
-
-def extract_image(entry):
-    """Tries to find an image URL in the RSS entry (media tags or HTML content)."""
-    # 1. Look for media:content or enclosures
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href')
-    
-    # 2. Look for images in the description/summary HTML
-    content = entry.get('summary', '') + entry.get('description', '')
-    img_match = re.search(r'<img [^>]*src="([^"]+)"', content)
-    if img_match:
-        return img_match.group(1)
-    
-    # 3. Default placeholder if no image found
-    return "https://images.unsplash.com/photo-1532187875460-1454f776473d?auto=format&fit=crop&q=80&w=400"
 
 def get_category(title):
     t = title.lower()
@@ -64,7 +38,6 @@ def fetch_news():
                         "title": entry.title,
                         "link": entry.link,
                         "source": source_name,
-                        "image": extract_image(entry),
                         "category": get_category(entry.title),
                         "date": entry.get('published', 'Recent')
                     })
