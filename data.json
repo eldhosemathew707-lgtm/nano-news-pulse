@@ -1,53 +1,5 @@
 [
     {
-        "title": "2D transistor goes narrower",
-        "link": "https://www.nature.com/articles/s41565-026-02162-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Scaling nanoribbon transistors with monolayer transition metal dichalcogenides",
-        "link": "https://www.nature.com/articles/s41565-026-02161-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Intracellular neuronal recordings across DNA tiles",
-        "link": "https://www.nature.com/articles/s41565-026-02180-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Hydrophobic liquid electrolyte interphases for efficient aqueous zinc batteries",
-        "link": "https://www.nature.com/articles/s41565-026-02187-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Reconstruction of magnon eigenfunctions by X-ray magnetic vector chronoscopy",
-        "link": "https://www.nature.com/articles/s41565-026-02185-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Chemical efflux imaging using an annular nanosensor array for in situ bladder cancer detection",
-        "link": "https://www.nature.com/articles/s41565-026-02172-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Moving past size in nanoplastics research",
-        "link": "https://www.nature.com/articles/s41565-026-02190-5",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Room-temperature hydrogen storage of boron nanoclusters",
-        "link": "https://www.nature.com/articles/s41565-026-02150-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Correction to \"Drop to Gate Nasal Drops Attenuates Sepsis\u2010Induced Cognitive Dysfunction\"",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.73814?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,18 @@
         "date": "Thu, 21 May 2026 04:28:33 EDT"
     },
     {
+        "title": "Printable 3D Metalenses Bring Full-Colour VR Displays Closer to Scalable Nanomanufacturing",
+        "link": "https://www.azonano.com/news.aspx?newsID=41724",
+        "source": "AZoNano.com",
+        "date": "Tue, 02 Jun 2026 19:47:00 -0400"
+    },
+    {
+        "title": "Talkative Battery Opens Door to Nano-Enabled Cell Sensing for Safer Energy Storage",
+        "link": "https://www.azonano.com/news.aspx?newsID=41723",
+        "source": "AZoNano.com",
+        "date": "Tue, 02 Jun 2026 19:17:00 -0400"
+    },
+    {
         "title": "Air Bearing Linear Slide Delivers Nanometer-Precision Motion Control",
         "link": "https://www.azonano.com/news.aspx?newsID=41722",
         "source": "AZoNano.com",
@@ -274,17 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41714",
         "source": "AZoNano.com",
         "date": "Tue, 26 May 2026 20:43:00 -0400"
-    },
-    {
-        "title": "Nanowire Sponge Cleans Water by Killing Microbes and Breaking Down Pollutants",
-        "link": "https://www.azonano.com/news.aspx?newsID=41713",
-        "source": "AZoNano.com",
-        "date": "Mon, 25 May 2026 21:16:00 -0400"
-    },
-    {
-        "title": "How Nanotechnology Could Solve Dermatology\u2019s Biggest Delivery Problem",
-        "link": "https://www.azonano.com/news.aspx?newsID=41712",
-        "source": "AZoNano.com",
-        "date": "Mon, 25 May 2026 01:38:00 -0400"
     }
 ]
