@@ -1,5 +1,53 @@
 [
     {
+        "title": "2D transistor goes narrower",
+        "link": "https://www.nature.com/articles/s41565-026-02162-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Scaling nanoribbon transistors with monolayer transition metal dichalcogenides",
+        "link": "https://www.nature.com/articles/s41565-026-02161-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Intracellular neuronal recordings across DNA tiles",
+        "link": "https://www.nature.com/articles/s41565-026-02180-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Hydrophobic liquid electrolyte interphases for efficient aqueous zinc batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02187-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Reconstruction of magnon eigenfunctions by X-ray magnetic vector chronoscopy",
+        "link": "https://www.nature.com/articles/s41565-026-02185-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Chemical efflux imaging using an annular nanosensor array for in situ bladder cancer detection",
+        "link": "https://www.nature.com/articles/s41565-026-02172-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Moving past size in nanoplastics research",
+        "link": "https://www.nature.com/articles/s41565-026-02190-5",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Room-temperature hydrogen storage of boron nanoclusters",
+        "link": "https://www.nature.com/articles/s41565-026-02150-z",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Electronic Modulation and Surface Reconstruction of NiS2 for Enhanced Alkaline Oxygen Evolution Reaction Activity and Durability",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.73968?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -180,6 +228,12 @@
         "date": "Fri, 22 May 2026 09:38:12 EDT"
     },
     {
+        "title": "Chitosan Nanoparticles Could Make Vaccines More Stable, Mucosal, and Needle-Free",
+        "link": "https://www.azonano.com/news.aspx?newsID=41726",
+        "source": "AZoNano.com",
+        "date": "Thu, 04 Jun 2026 20:58:00 -0400"
+    },
+    {
         "title": "Cellulose Nanofibril Binder Helps Build Cleaner, Higher-Capacity Lithium Batteries",
         "link": "https://www.azonano.com/news.aspx?newsID=41725",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41717",
         "source": "AZoNano.com",
         "date": "Thu, 28 May 2026 20:27:00 -0400"
-    },
-    {
-        "title": "AI-Driven Nanotweezers Bring Milk Vesicle Analysis Into Sharper Focus",
-        "link": "https://www.azonano.com/news.aspx?newsID=41715",
-        "source": "AZoNano.com",
-        "date": "Wed, 27 May 2026 19:55:00 -0400"
     }
 ]
