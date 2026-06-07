@@ -1,5 +1,53 @@
 [
     {
+        "title": "Nanosensor-coated catheters for bladder cancer detection",
+        "link": "https://www.nature.com/articles/s41565-026-02173-6",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "2D transistor goes narrower",
+        "link": "https://www.nature.com/articles/s41565-026-02162-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Scaling nanoribbon transistors with monolayer transition metal dichalcogenides",
+        "link": "https://www.nature.com/articles/s41565-026-02161-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Intracellular neuronal recordings across DNA tiles",
+        "link": "https://www.nature.com/articles/s41565-026-02180-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Hydrophobic liquid electrolyte interphases for efficient aqueous zinc batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02187-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Reconstruction of magnon eigenfunctions by X-ray magnetic vector chronoscopy",
+        "link": "https://www.nature.com/articles/s41565-026-02185-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Chemical efflux imaging using an annular nanosensor array for in situ bladder cancer detection",
+        "link": "https://www.nature.com/articles/s41565-026-02172-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Moving past size in nanoplastics research",
+        "link": "https://www.nature.com/articles/s41565-026-02190-5",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "3\u2010Benzofuranone Based Asymmetric Guest Nonfullerene Acceptors for Reduced Voltage Loss",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74096?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -180,6 +228,12 @@
         "date": "Tue, 26 May 2026 09:09:27 EDT"
     },
     {
+        "title": "Light-Driven Bismuth Nanomaterials Show Promise Against Tumors and Bacteria",
+        "link": "https://www.azonano.com/news.aspx?newsID=41727",
+        "source": "AZoNano.com",
+        "date": "Sat, 06 Jun 2026 22:03:00 -0400"
+    },
+    {
         "title": "Chitosan Nanoparticles Could Make Vaccines More Stable, Mucosal, and Needle-Free",
         "link": "https://www.azonano.com/news.aspx?newsID=41726",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41718",
         "source": "AZoNano.com",
         "date": "Sun, 31 May 2026 21:02:00 -0400"
-    },
-    {
-        "title": "How AI and Nanotechnology Can Fix America\u2019s Manufacturing Skills Gap",
-        "link": "https://www.azonano.com/news.aspx?newsID=41717",
-        "source": "AZoNano.com",
-        "date": "Thu, 28 May 2026 20:27:00 -0400"
     }
 ]
