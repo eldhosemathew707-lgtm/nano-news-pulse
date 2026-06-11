@@ -1,5 +1,53 @@
 [
     {
+        "title": "Direct evidence of metal\u2013ligand redox processes in positive electrodes during lithium-based battery operation",
+        "link": "https://www.nature.com/articles/s41565-026-02189-y",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Nanosensor-coated catheters for bladder cancer detection",
+        "link": "https://www.nature.com/articles/s41565-026-02173-6",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "2D transistor goes narrower",
+        "link": "https://www.nature.com/articles/s41565-026-02162-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Scaling nanoribbon transistors with monolayer transition metal dichalcogenides",
+        "link": "https://www.nature.com/articles/s41565-026-02161-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Intracellular neuronal recordings across DNA tiles",
+        "link": "https://www.nature.com/articles/s41565-026-02180-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Hydrophobic liquid electrolyte interphases for efficient aqueous zinc batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02187-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Reconstruction of magnon eigenfunctions by X-ray magnetic vector chronoscopy",
+        "link": "https://www.nature.com/articles/s41565-026-02185-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Chemical efflux imaging using an annular nanosensor array for in situ bladder cancer detection",
+        "link": "https://www.nature.com/articles/s41565-026-02172-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "A Multifunctional Eutectogel for Wide\u2010Temperature and Intelligent Speech Recognition",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.73889?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -180,6 +228,12 @@
         "date": "Tue, 26 May 2026 09:23:43 EDT"
     },
     {
+        "title": "Machine Learning Reveals Hidden Nanophotonic Resonances In Silicon-Gold Nanopillars",
+        "link": "https://www.azonano.com/news.aspx?newsID=41731",
+        "source": "AZoNano.com",
+        "date": "Wed, 10 Jun 2026 20:19:00 -0400"
+    },
+    {
         "title": "Large-Aperture XY Motion Stage Boosts Precision and Throughput in Scanning and Automation",
         "link": "https://www.azonano.com/news.aspx?newsID=41730",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41722",
         "source": "AZoNano.com",
         "date": "Tue, 02 Jun 2026 08:43:00 -0400"
-    },
-    {
-        "title": "Park Systems Launches Park FX40 IR, Uniting Full AFM Performance and Nanoscale IR Spectroscopy in a Single Automated Platform",
-        "link": "https://www.azonano.com/news.aspx?newsID=41721",
-        "source": "AZoNano.com",
-        "date": "Tue, 02 Jun 2026 05:20:00 -0400"
     }
 ]
