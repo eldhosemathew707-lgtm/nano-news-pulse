@@ -1,5 +1,11 @@
 [
     {
+        "title": "Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02212-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Publisher Correction: Chemical efflux imaging using an annular nanosensor array for in situ bladder cancer detection",
         "link": "https://www.nature.com/articles/s41565-026-02239-5",
         "source": "Nature Nanotechnology",
@@ -38,12 +44,6 @@
     {
         "title": "Near-exceptional point degeneracy enables multilevel optical memory",
         "link": "https://www.nature.com/articles/s41565-026-02191-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Monolithic manufacturing of an electrically addressable quasi-suspended nanophotonic aperture",
-        "link": "https://www.nature.com/articles/s41565-026-02219-9",
         "source": "Nature Nanotechnology",
         "date": "Latest"
     },
@@ -114,6 +114,12 @@
         "date": "Tue, 07 Jul 2026 01:39:51 EDT"
     },
     {
+        "title": "Schr\u00f6dinger\u2019s anthill: Quantum entanglement found in a crystal large enough to hold",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Tue, 07 Jul 2026 20:46:06 EDT"
+    },
+    {
         "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
         "link": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
         "source": "Nanotechnology News -- ScienceDaily",
@@ -162,10 +168,16 @@
         "date": "Sat, 27 Jun 2026 21:14:15 EDT"
     },
     {
-        "title": "This strange material can become strong or fall apart in seconds",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Mon, 15 Jun 2026 07:54:43 EDT"
+        "title": "DNA Nanotechnology May Open New Paths to Stroke Repair",
+        "link": "https://www.azonano.com/news.aspx?newsID=41756",
+        "source": "AZoNano.com",
+        "date": "Tue, 07 Jul 2026 20:12:00 -0400"
+    },
+    {
+        "title": "Scientists Detect Nanoplastics in Antarctic Soil for the First Time",
+        "link": "https://www.azonano.com/news.aspx?newsID=41755",
+        "source": "AZoNano.com",
+        "date": "Tue, 07 Jul 2026 19:32:00 -0400"
     },
     {
         "title": "Gold Nanowires Help Contact Lens Monitor Oxygen Levels",
@@ -214,17 +226,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41747",
         "source": "AZoNano.com",
         "date": "Mon, 29 Jun 2026 01:25:00 -0400"
-    },
-    {
-        "title": "Soft-Core Nanoparticles Point to Better Ice-Controlling Materials",
-        "link": "https://www.azonano.com/news.aspx?newsID=41746",
-        "source": "AZoNano.com",
-        "date": "Mon, 29 Jun 2026 00:17:00 -0400"
-    },
-    {
-        "title": "Ionic Nanogels Turn Single Nanopores Into High-Flux Osmotic Generators",
-        "link": "https://www.azonano.com/news.aspx?newsID=41745",
-        "source": "AZoNano.com",
-        "date": "Wed, 24 Jun 2026 20:15:00 -0400"
     }
 ]
