@@ -1,5 +1,11 @@
 [
     {
+        "title": "Super-conductivity in twisted trilayer graphene linked to electronic compressibility oscillations",
+        "link": "https://www.nature.com/articles/s41565-026-02176-3",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
         "link": "https://www.nature.com/articles/s41565-026-02212-2",
         "source": "Nature Nanotechnology",
@@ -42,10 +48,22 @@
         "date": "Latest"
     },
     {
-        "title": "Near-exceptional point degeneracy enables multilevel optical memory",
-        "link": "https://www.nature.com/articles/s41565-026-02191-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
+        "title": "A black hole theory comes to life in the lab",
+        "link": "https://www.nanowerk.com/news2/space/newsid=69784.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 08 Jul 2026 12:04:47 -1000"
+    },
+    {
+        "title": "A stitched MOF membrane tackles PFAS in water without sacrificing flow",
+        "link": "https://www.nanowerk.com/spotlight/spotid=69763.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 08 Jul 2026 11:51:07 -1000"
+    },
+    {
+        "title": "AI and Ising machines unlock smarter RNA design",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=69762.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 08 Jul 2026 09:02:39 -1000"
     },
     {
         "title": "New CRISPR method makes it possible to control protein production in cells",
@@ -88,24 +106,6 @@
         "link": "https://www.nanowerk.com/news2/green/newsid=69755.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Wed, 08 Jul 2026 04:56:11 -1000"
-    },
-    {
-        "title": "New ultrathin lens focuses light into an optical needle",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69754.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 08 Jul 2026 04:43:03 -1000"
-    },
-    {
-        "title": "A device that behaves like a single neuron",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69753.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 07 Jul 2026 12:33:18 -1000"
-    },
-    {
-        "title": "Holographic printer produces ultra-high aspect-ratio 3D microstructures in one shot",
-        "link": "https://www.nanowerk.com/news2/gadget/newsid=69752.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 07 Jul 2026 12:26:05 -1000"
     },
     {
         "title": "AI just supercharged the race to find room temperature superconductors",
