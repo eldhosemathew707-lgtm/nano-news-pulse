@@ -108,6 +108,30 @@
         "date": "Sun, 19 Jul 2026 21:31:49 -0700"
     },
     {
+        "title": "Pixel-level control turns metasurfaces into programmable optical devices",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69824.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 20 Jul 2026 08:33:25 -1000"
+    },
+    {
+        "title": "Machine learning maps the atomic complexity inside batteries",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69823.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 20 Jul 2026 06:52:35 -1000"
+    },
+    {
+        "title": "Targeted Spin-electric control of molecules for quantum technologies",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69822.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 20 Jul 2026 06:43:15 -1000"
+    },
+    {
+        "title": "A new robotic hand capable of switching between multiple grippers using a single motor",
+        "link": "https://www.nanowerk.com/news2/robotics/newsid=69821.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 20 Jul 2026 06:32:43 -1000"
+    },
+    {
         "title": "A source of extremely high-energy particles in the Milky Way identified",
         "link": "https://www.nanowerk.com/news2/space/newsid=69820.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -142,30 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69815.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Fri, 17 Jul 2026 01:27:39 -1000"
-    },
-    {
-        "title": "Atom-thin graphene ribbons turn radiation damage into a detectable signal",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69814.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 17 Jul 2026 01:17:43 -1000"
-    },
-    {
-        "title": "Researchers electrically power nanophotonic lasers without disturbing light",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69813.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Thu, 16 Jul 2026 11:37:59 -1000"
-    },
-    {
-        "title": "Knot theory shows how stitch patterns control fabric strength, damage and failure",
-        "link": "https://www.nanowerk.com/news2/robotics/newsid=69812.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Thu, 16 Jul 2026 10:58:07 -1000"
-    },
-    {
-        "title": "Listening to 'ringing' black holes unlocks future gravitational-wave astronomy",
-        "link": "https://www.nanowerk.com/news2/space/newsid=69811.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Thu, 16 Jul 2026 10:08:42 -1000"
     },
     {
         "title": "A tiny universe in a bottle reveals clues to the origins of life",
@@ -228,6 +228,12 @@
         "date": "Sun, 05 Jul 2026 14:13:44 EDT"
     },
     {
+        "title": "Autosorb 3300 Advances Catalyst Characterization for Chemical Industries",
+        "link": "https://www.azonano.com/news.aspx?newsID=41769",
+        "source": "AZoNano.com",
+        "date": "Mon, 20 Jul 2026 08:32:00 -0400"
+    },
+    {
         "title": "Nanochitin Strengthens Paper Barriers While Nanocellulose Delivers Stronger Films and Brighter Paper",
         "link": "https://www.azonano.com/news.aspx?newsID=41768",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41760",
         "source": "AZoNano.com",
         "date": "Mon, 13 Jul 2026 19:17:00 -0400"
-    },
-    {
-        "title": "DNA Origami Device Secures Messages with Nano-Morse Code",
-        "link": "https://www.azonano.com/news.aspx?newsID=41759",
-        "source": "AZoNano.com",
-        "date": "Sun, 12 Jul 2026 21:16:00 -0400"
     }
 ]
