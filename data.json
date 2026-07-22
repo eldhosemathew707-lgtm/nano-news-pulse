@@ -1,53 +1,5 @@
 [
     {
-        "title": "Publisher Correction: Halide-site-substituting spacer creates quasi-two-dimensional perovskites for vapour-deposited light-emitting diodes",
-        "link": "https://www.nature.com/articles/s41565-026-02250-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Augmented reality coming into focus",
-        "link": "https://www.nature.com/articles/s41565-026-02214-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Fast lithium-ion transport in polymer electrolytes with rigid polyanions",
-        "link": "https://www.nature.com/articles/s41565-026-02229-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "The simplicity of a twist",
-        "link": "https://www.nature.com/articles/s41565-026-02241-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Mark A. Ratner (1942\u20132026)",
-        "link": "https://www.nature.com/articles/s41565-026-02223-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Nanoengineered doping overcomes sintering and grain-boundary limitations in all-solid-state lithium batteries with garnet electrolytes",
-        "link": "https://www.nature.com/articles/s41565-026-02226-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Nanosecond phase ordering in ultra-large spin Hall nano-oscillator lattices for unconventional computing",
-        "link": "https://www.nature.com/articles/s41565-026-02216-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Rigid polyanion architectures enable multiple ion-transport pathways and nanocluster dynamics in composite polymer battery electrolytes",
-        "link": "https://www.nature.com/articles/s41565-026-02228-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Optoelectronic nanofluidic neural networks advance ionic computing",
         "link": "https://www.nanowerk.com/spotlight/spotid=69835.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -168,6 +120,12 @@
         "date": "Sun, 05 Jul 2026 14:13:44 EDT"
     },
     {
+        "title": "Electrostatic Discharge Boosts Triboelectric Nanogenerator Current and Enables DC Output",
+        "link": "https://www.azonano.com/news.aspx?newsID=41772",
+        "source": "AZoNano.com",
+        "date": "Tue, 21 Jul 2026 19:58:00 -0400"
+    },
+    {
         "title": "Invisible Microbes \u2018Mining\u2019 Toxic Waste in the Flinders Ranges",
         "link": "https://www.azonano.com/news.aspx?newsID=41771",
         "source": "AZoNano.com",
@@ -220,11 +178,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41763",
         "source": "AZoNano.com",
         "date": "Wed, 15 Jul 2026 06:44:00 -0400"
-    },
-    {
-        "title": "Researchers Identify the Best Nanographite Dose for SLA Resin",
-        "link": "https://www.azonano.com/news.aspx?newsID=41762",
-        "source": "AZoNano.com",
-        "date": "Tue, 14 Jul 2026 21:48:00 -0400"
     }
 ]
