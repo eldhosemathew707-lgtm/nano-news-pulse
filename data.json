@@ -1,53 +1,5 @@
 [
     {
-        "title": "Unbreakable battery positive electrodes",
-        "link": "https://www.nature.com/articles/s41565-025-02088-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe<sub>5</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02193-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Dynamic delocalization of stress in brittle battery positive electrode active materials by shape-memory polymer nanocoating",
-        "link": "https://www.nature.com/articles/s41565-026-02224-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Immunostimulatory lipogel implant enhances cancer immunotherapy",
-        "link": "https://www.nature.com/articles/s41565-026-02194-1",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Scalable transfer for industrial 2D-CMOS manufacturing",
-        "link": "https://www.nature.com/articles/s41565-026-02217-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Computationally guided design of bioactive nanostructures for targeted clearance of amyloid-\u03b2 aggregates in Alzheimer\u2019s disease",
-        "link": "https://www.nature.com/articles/s41565-026-02225-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Catalytic profiling of extracellular vesicles maps altered cancer metabolism",
-        "link": "https://www.nature.com/articles/s41565-026-02230-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Publisher Correction: Halide-site-substituting spacer creates quasi-two-dimensional perovskites for vapour-deposited light-emitting diodes",
-        "link": "https://www.nature.com/articles/s41565-026-02250-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Controlling Ion Dynamics at Nanoscale for Memristor\u2010Based Neuromorphic Computing",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74663?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -108,6 +60,24 @@
         "date": "Tue, 21 Jul 2026 23:45:32 -0700"
     },
     {
+        "title": "Quantum dots reveal hidden light waves on metal surfaces",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69855.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 24 Jul 2026 02:40:27 -1000"
+    },
+    {
+        "title": "Could alien signals be hiding on a different radio channel?",
+        "link": "https://www.nanowerk.com/news2/space/newsid=69854.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 24 Jul 2026 02:30:58 -1000"
+    },
+    {
+        "title": "Magnetic clues inside atomic nuclei help explain how elements form in stars",
+        "link": "https://www.nanowerk.com/news2/space/newsid=69853.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 24 Jul 2026 02:23:48 -1000"
+    },
+    {
         "title": "Terahertz chip combines vision through visual barriers with built in memory and signal encoding",
         "link": "https://www.nanowerk.com/spotlight/spotid=69852.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -148,24 +118,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69846.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Thu, 23 Jul 2026 07:23:35 -1000"
-    },
-    {
-        "title": "AI study reveals the biodiversity cost of green energy minerals",
-        "link": "https://www.nanowerk.com/news2/green/newsid=69845.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Thu, 23 Jul 2026 07:16:56 -1000"
-    },
-    {
-        "title": "Magnetic MOF removes 95% of microplastics and nanoplastics from wastewater",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69844.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 22 Jul 2026 11:57:09 -1000"
-    },
-    {
-        "title": "Molecular model for semiconductor surfaces developed",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69843.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 22 Jul 2026 10:17:07 -1000"
     },
     {
         "title": "A tiny universe in a bottle reveals clues to the origins of life",
@@ -228,6 +180,12 @@
         "date": "Wed, 01 Jul 2026 23:05:16 EDT"
     },
     {
+        "title": "Tescan Unveils the New CLARA to Help Researchers See More at the Nanoscale",
+        "link": "https://www.azonano.com/news.aspx?newsID=41775",
+        "source": "AZoNano.com",
+        "date": "Fri, 24 Jul 2026 03:27:00 -0400"
+    },
+    {
         "title": "Review Maps Imaging and AI Pathways for Nanosphere Defect Inspection",
         "link": "https://www.azonano.com/news.aspx?newsID=41774",
         "source": "AZoNano.com",
@@ -280,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41766",
         "source": "AZoNano.com",
         "date": "Wed, 15 Jul 2026 20:39:00 -0400"
-    },
-    {
-        "title": "Scientists Unveil Technique to Build Ultra-Thin Material Stacks That Promise Quantum Breakthrough",
-        "link": "https://www.azonano.com/news.aspx?newsID=41765",
-        "source": "AZoNano.com",
-        "date": "Wed, 15 Jul 2026 07:30:00 -0400"
     }
 ]
