@@ -1,53 +1,5 @@
 [
     {
-        "title": "Unbreakable battery positive electrodes",
-        "link": "https://www.nature.com/articles/s41565-025-02088-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe<sub>5</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02193-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Dynamic delocalization of stress in brittle battery positive electrode active materials by shape-memory polymer nanocoating",
-        "link": "https://www.nature.com/articles/s41565-026-02224-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Immunostimulatory lipogel implant enhances cancer immunotherapy",
-        "link": "https://www.nature.com/articles/s41565-026-02194-1",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Scalable transfer for industrial 2D-CMOS manufacturing",
-        "link": "https://www.nature.com/articles/s41565-026-02217-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Computationally guided design of bioactive nanostructures for targeted clearance of amyloid-\u03b2 aggregates in Alzheimer\u2019s disease",
-        "link": "https://www.nature.com/articles/s41565-026-02225-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Catalytic profiling of extracellular vesicles maps altered cancer metabolism",
-        "link": "https://www.nature.com/articles/s41565-026-02230-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Publisher Correction: Halide-site-substituting spacer creates quasi-two-dimensional perovskites for vapour-deposited light-emitting diodes",
-        "link": "https://www.nature.com/articles/s41565-026-02250-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Multi\u2010Ion Doped Zr\u2010Based Halide Solid Electrolytes for High\u2010Performance All\u2010Solid\u2010State Batteries",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74786?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,18 @@
         "date": "Wed, 01 Jul 2026 23:05:16 EDT"
     },
     {
+        "title": "Lignin Nanoparticles Boost Oil Recovery by Tuning Rock Wettability at the Nanoscale",
+        "link": "https://www.azonano.com/news.aspx?newsID=41777",
+        "source": "AZoNano.com",
+        "date": "Sun, 26 Jul 2026 21:25:00 -0400"
+    },
+    {
+        "title": "Nano-Engineered Titanium Could Shape Safer, Smarter Dental Implants",
+        "link": "https://www.azonano.com/news.aspx?newsID=41776",
+        "source": "AZoNano.com",
+        "date": "Sun, 26 Jul 2026 20:48:00 -0400"
+    },
+    {
         "title": "Tescan Unveils the New CLARA to Help Researchers See More at the Nanoscale",
         "link": "https://www.azonano.com/news.aspx?newsID=41775",
         "source": "AZoNano.com",
@@ -274,17 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41768",
         "source": "AZoNano.com",
         "date": "Sun, 19 Jul 2026 21:41:00 -0400"
-    },
-    {
-        "title": "Older Nanopore Models Lead CpG Analysis While Newer Tools Excel at Other DNA Marks",
-        "link": "https://www.azonano.com/news.aspx?newsID=41767",
-        "source": "AZoNano.com",
-        "date": "Thu, 16 Jul 2026 20:29:00 -0400"
-    },
-    {
-        "title": "Self-Heating Nanopores Turn Salt Precipitation Into Neuromorphic Memory",
-        "link": "https://www.azonano.com/news.aspx?newsID=41766",
-        "source": "AZoNano.com",
-        "date": "Wed, 15 Jul 2026 20:39:00 -0400"
     }
 ]
