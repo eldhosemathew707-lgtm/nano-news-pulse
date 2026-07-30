@@ -1,53 +1,5 @@
 [
     {
-        "title": "Strain-isolated microneedles for ambulatory hormonal and metabolic monitoring",
-        "link": "https://www.nature.com/articles/s41565-026-02247-5",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Upconverting nanoparticles enable bioimaging with sub-\u00e5ngstr\u00f6m precision",
-        "link": "https://www.nature.com/articles/s41565-026-02253-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Integrated blue ZnSe/ZnS quantum dot lasers on a silicon nitride platform",
-        "link": "https://www.nature.com/articles/s41565-026-02237-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Spontaneous and indefinite blinking in upconverting nanoparticles for \u00e5ngstr\u00f6m-precision multicolour super-resolution imaging",
-        "link": "https://www.nature.com/articles/s41565-026-02233-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Hidden spin-valley locking stabilizes nanosecond spin polarization in 2D perovskites",
-        "link": "https://www.nature.com/articles/s41565-026-02238-6",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Unbreakable battery positive electrodes",
-        "link": "https://www.nature.com/articles/s41565-025-02088-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe<sub>5</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02193-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Dynamic delocalization of stress in brittle battery positive electrode active materials by shape-memory polymer nanocoating",
-        "link": "https://www.nature.com/articles/s41565-026-02224-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "MXene Bioinks for 3D Bioprinting: Design and Translation",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74819?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,12 @@
         "date": "Wed, 01 Jul 2026 23:05:16 EDT"
     },
     {
+        "title": "Nanoscale Fluorapatite Structure Makes Deep-Sea Rare Earths Easier to Extract",
+        "link": "https://www.azonano.com/news.aspx?newsID=41780",
+        "source": "AZoNano.com",
+        "date": "Wed, 29 Jul 2026 20:12:00 -0400"
+    },
+    {
         "title": "Review Links Smaller Nanoplastics to Greater Biological Stress Across Species",
         "link": "https://www.azonano.com/news.aspx?newsID=41779",
         "source": "AZoNano.com",
@@ -280,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41771",
         "source": "AZoNano.com",
         "date": "Tue, 21 Jul 2026 07:54:00 -0400"
-    },
-    {
-        "title": "Ultra-Large Spin Hall Oscillator Lattices Achieve Nanosecond Synchronization",
-        "link": "https://www.azonano.com/news.aspx?newsID=41770",
-        "source": "AZoNano.com",
-        "date": "Tue, 21 Jul 2026 01:36:00 -0400"
     }
 ]
