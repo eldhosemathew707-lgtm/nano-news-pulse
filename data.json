@@ -1,53 +1,5 @@
 [
     {
-        "title": "Coherent room-temperature dipole synchronization in plasmonic nanocavities",
-        "link": "https://www.nature.com/articles/s41565-026-02242-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Strain-isolated microneedles for ambulatory hormonal and metabolic monitoring",
-        "link": "https://www.nature.com/articles/s41565-026-02247-5",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Upconverting nanoparticles enable bioimaging with sub-\u00e5ngstr\u00f6m precision",
-        "link": "https://www.nature.com/articles/s41565-026-02253-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Integrated blue ZnSe/ZnS quantum dot lasers on a silicon nitride platform",
-        "link": "https://www.nature.com/articles/s41565-026-02237-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Spontaneous and indefinite blinking in upconverting nanoparticles for \u00e5ngstr\u00f6m-precision multicolour super-resolution imaging",
-        "link": "https://www.nature.com/articles/s41565-026-02233-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Hidden spin-valley locking stabilizes nanosecond spin polarization in 2D perovskites",
-        "link": "https://www.nature.com/articles/s41565-026-02238-6",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Unbreakable battery positive electrodes",
-        "link": "https://www.nature.com/articles/s41565-025-02088-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe<sub>5</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02193-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "PFN\u2010Br Modified Buried Interface Enhanced Charge Extraction in Inverted Wide\u2010Bandgap Perovskite Solar Cells",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74806?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,12 @@
         "date": "Tue, 07 Jul 2026 20:46:06 EDT"
     },
     {
+        "title": "Nano-Printed Scaffolds Bring Direct Molecular Access to Quantum Photonics",
+        "link": "https://www.azonano.com/news.aspx?newsID=41781",
+        "source": "AZoNano.com",
+        "date": "Thu, 30 Jul 2026 20:55:00 -0400"
+    },
+    {
         "title": "Nanoscale Fluorapatite Structure Makes Deep-Sea Rare Earths Easier to Extract",
         "link": "https://www.azonano.com/news.aspx?newsID=41780",
         "source": "AZoNano.com",
@@ -280,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41772",
         "source": "AZoNano.com",
         "date": "Tue, 21 Jul 2026 19:58:00 -0400"
-    },
-    {
-        "title": "Invisible Microbes \u2018Mining\u2019 Toxic Waste in the Flinders Ranges",
-        "link": "https://www.azonano.com/news.aspx?newsID=41771",
-        "source": "AZoNano.com",
-        "date": "Tue, 21 Jul 2026 07:54:00 -0400"
     }
 ]
