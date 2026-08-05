@@ -1,53 +1,5 @@
 [
     {
-        "title": "A charged cage for excitons",
-        "link": "https://www.nature.com/articles/s41565-026-02240-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Electrostatic quantum nanocorral for composite charged excitons",
-        "link": "https://www.nature.com/articles/s41565-026-02222-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Molecules under controlled collapse",
-        "link": "https://www.nature.com/articles/s41565-026-02234-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Intrinsic plasmon canalization in the biaxial van der Waals crystal MoOCl<sub>2</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02243-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Self-assembled contacts for high-yield molecular devices",
-        "link": "https://www.nature.com/articles/s41565-026-02227-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Intracellular \u2018gobstoppers\u2019 enable programmed cargo release",
-        "link": "https://www.nature.com/articles/s41565-026-02231-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Coherent room-temperature dipole synchronization in plasmonic nanocavities",
-        "link": "https://www.nature.com/articles/s41565-026-02242-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Strain-isolated microneedles for ambulatory hormonal and metabolic monitoring",
-        "link": "https://www.nature.com/articles/s41565-026-02247-5",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Achieving High Energy Density and Superior Electrochemical Performance in P2\u2010Type Fe\u2013Mn Cathodes via Li\u2013Ti Co\u2010Doping",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74980?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -108,6 +60,30 @@
         "date": "Wed, 05 Aug 2026 02:06:57 -0700"
     },
     {
+        "title": "Self-protecting polymer nanofibers mimic how living cells survive",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69993.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 05 Aug 2026 12:22:39 -1000"
+    },
+    {
+        "title": "Engineers develop atomically thin 'analogue in-memory search' chip to redefine AI computing limits with minimalist architecture",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69992.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 05 Aug 2026 11:40:17 -1000"
+    },
+    {
+        "title": "Engineered bacteria turn natural proteins into stiffer living materials",
+        "link": "https://www.nanowerk.com/spotlight/spotid=69921.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 05 Aug 2026 10:05:16 -1000"
+    },
+    {
+        "title": "Compact hexapod 6-DOF alignment system features patented overload protection",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69920.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 05 Aug 2026 09:27:03 -1000"
+    },
+    {
         "title": "Scientists reveal hidden structure of a quantum fluid",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69919.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -142,30 +118,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69914.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Tue, 04 Aug 2026 12:31:41 -1000"
-    },
-    {
-        "title": "Billions of nanoholes could help engineers design stronger metals",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69913.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 04 Aug 2026 12:25:39 -1000"
-    },
-    {
-        "title": "Turning molecules into reliable electronic devices",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69912.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 04 Aug 2026 12:14:03 -1000"
-    },
-    {
-        "title": "Magnetic dopants help quantum dots use light for chemical reactions",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69911.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 04 Aug 2026 09:33:23 -1000"
-    },
-    {
-        "title": "Hybrid photonic chip turns two materials into one broadband light source",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=69910.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 04 Aug 2026 04:32:58 -1000"
     },
     {
         "title": "Scientists just 3D printed one of the hardest metals on Earth",
