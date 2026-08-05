@@ -1,5 +1,53 @@
 [
     {
+        "title": "Molecules under controlled collapse",
+        "link": "https://www.nature.com/articles/s41565-026-02234-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Intrinsic plasmon canalization in the biaxial van der Waals crystal MoOCl<sub>2</sub>",
+        "link": "https://www.nature.com/articles/s41565-026-02243-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Self-assembled contacts for high-yield molecular devices",
+        "link": "https://www.nature.com/articles/s41565-026-02227-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Intracellular \u2018gobstoppers\u2019 enable programmed cargo release",
+        "link": "https://www.nature.com/articles/s41565-026-02231-z",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Coherent room-temperature dipole synchronization in plasmonic nanocavities",
+        "link": "https://www.nature.com/articles/s41565-026-02242-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Strain-isolated microneedles for ambulatory hormonal and metabolic monitoring",
+        "link": "https://www.nature.com/articles/s41565-026-02247-5",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Upconverting nanoparticles enable bioimaging with sub-\u00e5ngstr\u00f6m precision",
+        "link": "https://www.nature.com/articles/s41565-026-02253-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Integrated blue ZnSe/ZnS quantum dot lasers on a silicon nitride platform",
+        "link": "https://www.nature.com/articles/s41565-026-02237-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Fully Compensated Ferrimagnetic Properties of (Cr,Fe)S Compound with a Pyrrhotite\u2010Type Structure",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.74603?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -180,6 +228,12 @@
         "date": "Tue, 21 Jul 2026 22:43:34 EDT"
     },
     {
+        "title": "Compact Hexapod 6-DOF Alignment System Features Patented Overload Protection",
+        "link": "https://www.azonano.com/news.aspx?newsID=41784",
+        "source": "AZoNano.com",
+        "date": "Wed, 05 Aug 2026 01:34:00 -0400"
+    },
+    {
         "title": "Magnetic MXene Microrobots Remove Up to 94% of Microplastics in Lab Tests",
         "link": "https://www.azonano.com/news.aspx?newsID=41783",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41775",
         "source": "AZoNano.com",
         "date": "Fri, 24 Jul 2026 03:27:00 -0400"
-    },
-    {
-        "title": "Review Maps Imaging and AI Pathways for Nanosphere Defect Inspection",
-        "link": "https://www.azonano.com/news.aspx?newsID=41774",
-        "source": "AZoNano.com",
-        "date": "Wed, 22 Jul 2026 20:19:00 -0400"
     }
 ]
