@@ -1,5 +1,53 @@
 [
     {
+        "title": "Author Correction: Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02277-z",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Hydration layer mediates near-frictionless sieving of monovalent ions",
+        "link": "https://www.nature.com/articles/s41565-026-02245-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Bioresorbable and optically readable triboelectric implants enabled by nanoscale iridophosphors",
+        "link": "https://www.nature.com/articles/s41565-026-02256-4",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Point-like photovoltaic junction in 2D semiconductor homobilayer",
+        "link": "https://www.nature.com/articles/s41565-026-02251-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Nanophotonics beyond miniaturization",
+        "link": "https://www.nature.com/articles/s41565-026-02259-1",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Shape, strain and spin texture as a modern triad for magnetic materials",
+        "link": "https://www.nature.com/articles/s41565-026-02232-y",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Multi-element nanoscale doping of iron-rich sodium layered oxides enables ampere-hour-level Na-ion batteries",
+        "link": "https://www.nature.com/articles/s41565-026-02257-3",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Programmed membrane breaching with nanosyringes unlocks control over biochemical responses in synthetic cells",
+        "link": "https://www.nature.com/articles/s41565-026-02252-8",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Divergent Carbonization of Pillar[5]Arenes Produces Porous and Lamellar Carbon Architectures",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75161?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -120,6 +168,12 @@
         "date": "Tue, 18 Aug 2026 10:54:32 -1000"
     },
     {
+        "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Wed, 19 Aug 2026 21:32:04 EDT"
+    },
+    {
         "title": "Tiny quantum engines reveal useful energy hiding in \u201cwaste heat\u201d",
         "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
         "source": "Nanotechnology News -- ScienceDaily",
@@ -174,10 +228,10 @@
         "date": "Tue, 04 Aug 2026 03:08:28 EDT"
     },
     {
-        "title": "Scientists twist crystal layers and reshape matter from within",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Mon, 03 Aug 2026 00:36:48 EDT"
+        "title": "A Carbon Layer Just 0.8 Nanometers Thick Could Help Chips Keep Shrinking",
+        "link": "https://www.azonano.com/news.aspx?newsID=41801",
+        "source": "AZoNano.com",
+        "date": "Thu, 20 Aug 2026 01:53:00 -0400"
     },
     {
         "title": "PI XYZ Nanopositioning Stage Delivers 1 \u00c5 Resolution \u2013 P-733",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41792",
         "source": "AZoNano.com",
         "date": "Wed, 12 Aug 2026 04:36:00 -0400"
-    },
-    {
-        "title": "Nanoglass Interfaces Expand the Design Space for Amorphous Materials",
-        "link": "https://www.azonano.com/news.aspx?newsID=41791",
-        "source": "AZoNano.com",
-        "date": "Tue, 11 Aug 2026 21:52:00 -0400"
     }
 ]
