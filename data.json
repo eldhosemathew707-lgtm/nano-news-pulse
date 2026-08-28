@@ -1,53 +1,5 @@
 [
     {
-        "title": "The analytical challenge of measuring micro- and nanoplastics in human tissues",
-        "link": "https://www.nature.com/articles/s41565-026-02258-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Dipole glasses unlock the cryogenic frontier of energy storage",
-        "link": "https://www.nature.com/articles/s41565-026-02261-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Cryogenic energy storage enabled by dipole glass with unit-cell-level polar disorder",
-        "link": "https://www.nature.com/articles/s41565-026-02260-8",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Decoupling mechanical strain in microneedle biointerfaces",
-        "link": "https://www.nature.com/articles/s41565-026-02263-5",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Author Correction: Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
-        "link": "https://www.nature.com/articles/s41565-026-02277-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Hydration layer mediates near-frictionless sieving of monovalent ions",
-        "link": "https://www.nature.com/articles/s41565-026-02245-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Bioresorbable and optically readable triboelectric implants enabled by nanoscale iridophosphors",
-        "link": "https://www.nature.com/articles/s41565-026-02256-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Point-like photovoltaic junction in 2D semiconductor homobilayer",
-        "link": "https://www.nature.com/articles/s41565-026-02251-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "A 3D\u2010Printed Microvascular Surgery Training Platform With High\u2010Fidelity, Biomimetic Properties",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75497?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,12 @@
         "date": "Sat, 08 Aug 2026 10:09:02 EDT"
     },
     {
+        "title": "How AI Is Reshaping Two Decades of Nanomaterial Safety Testing",
+        "link": "https://www.azonano.com/news.aspx?newsID=41808",
+        "source": "AZoNano.com",
+        "date": "Fri, 28 Aug 2026 02:41:00 -0400"
+    },
+    {
         "title": "Reusable Nanomaterial Sterilizes Contaminated Milk and Water in Minutes",
         "link": "https://www.azonano.com/news.aspx?newsID=41807",
         "source": "AZoNano.com",
@@ -280,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41799",
         "source": "AZoNano.com",
         "date": "Tue, 18 Aug 2026 21:29:00 -0400"
-    },
-    {
-        "title": "Edge-Supported Design Makes Nano-Thick Skin Electronics Reusable and Easier to Handle",
-        "link": "https://www.azonano.com/news.aspx?newsID=41798",
-        "source": "AZoNano.com",
-        "date": "Tue, 18 Aug 2026 20:36:00 -0400"
     }
 ]
