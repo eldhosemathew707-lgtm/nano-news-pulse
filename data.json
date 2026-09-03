@@ -1,5 +1,11 @@
 [
     {
+        "title": "Defect-bound states of exciton condensate as an analogue of the Yu\u2013Shiba\u2013Rusinov state",
+        "link": "https://www.nature.com/articles/s41565-026-02267-1",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Quantum-well metasurface for free-space-accessible enhanced nonlinear polarization",
         "link": "https://www.nature.com/articles/s41565-026-02268-0",
         "source": "Nature Nanotechnology",
@@ -42,10 +48,22 @@
         "date": "Latest"
     },
     {
-        "title": "Dipole glasses unlock the cryogenic frontier of energy storage",
-        "link": "https://www.nature.com/articles/s41565-026-02261-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
+        "title": "3D printing with ice creates complex structures without supports",
+        "link": "https://www.nanowerk.com/news2/gadget/newsid=70151.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 03 Sep 2026 13:46:30 GMT"
+    },
+    {
+        "title": "Sound-powered microdroplets turn paper waste into valuable chemical in 20 minutes",
+        "link": "https://www.nanowerk.com/news2/green/newsid=70150.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 03 Sep 2026 13:30:52 GMT"
+    },
+    {
+        "title": "Combining AI and synthetic biology to decode nature's design rules (w/video)",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70149.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 03 Sep 2026 13:21:58 GMT"
     },
     {
         "title": "Engineering spleen-targeting bacterial nanoplatform to reprogram immune cells and prevent cancer recurrence",
@@ -90,22 +108,10 @@
         "date": "Wed, 02 Sep 2026 10:54:11 GMT"
     },
     {
-        "title": "MeerKAT directly detects cosmic hydrogen without optical surveys",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70141.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 02 Sep 2026 08:45:39 GMT"
-    },
-    {
-        "title": "New design strategy expands nanoparticle vaccine approach to influenza viruses",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70140.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 02 Sep 2026 08:34:00 GMT"
-    },
-    {
-        "title": "New Hall effect enables multidirectional sensing with one ultrathin device",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70139.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 02 Sep 2026 08:26:35 GMT"
+        "title": "Scientists just overturned a century-old physics assumption",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Thu, 03 Sep 2026 08:17:16 EDT"
     },
     {
         "title": "A search for one exotic particle uncovered two strange new structures",
@@ -162,10 +168,10 @@
         "date": "Sun, 16 Aug 2026 05:55:45 EDT"
     },
     {
-        "title": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Sun, 16 Aug 2026 22:28:23 EDT"
+        "title": "Alemnis Launches MLC-0.025 Low-Force Load Cell for High-Precision Nanomechanical Testing",
+        "link": "https://www.azonano.com/news.aspx?newsID=41814",
+        "source": "AZoNano.com",
+        "date": "Thu, 03 Sep 2026 07:22:00 -0400"
     },
     {
         "title": "Scientists Train AI to Build Custom Quantum Materials Atom by Atom",
@@ -220,11 +226,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41805",
         "source": "AZoNano.com",
         "date": "Tue, 25 Aug 2026 21:28:00 -0400"
-    },
-    {
-        "title": "Nanoparticles Show Promise for Safer Drugs, Vaccines, and Water in Aquaculture",
-        "link": "https://www.azonano.com/news.aspx?newsID=41804",
-        "source": "AZoNano.com",
-        "date": "Tue, 25 Aug 2026 21:03:00 -0400"
     }
 ]
