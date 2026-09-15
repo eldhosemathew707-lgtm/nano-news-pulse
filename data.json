@@ -1,111 +1,63 @@
 [
     {
-        "title": "Stretchable quantum dot displays achieve high definition",
-        "link": "https://www.nature.com/articles/s41565-026-02278-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "High-resolution intrinsically stretchable quantum-dot displays through thermally assisted intaglio transfer printing",
-        "link": "https://www.nature.com/articles/s41565-026-02272-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Single-gate, multipartite entanglement on a room-temperature quantum register",
-        "link": "https://www.nature.com/articles/s41565-026-02254-6",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Demonstration of on-chip all-optical switching of magnetization in integrated photonics",
-        "link": "https://www.nature.com/articles/s41565-026-02281-3",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Author Correction: Half-wave nanolasers and intracellular plasmonic lasing particles",
-        "link": "https://www.nature.com/articles/s41565-026-02295-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Author Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
-        "link": "https://www.nature.com/articles/s41565-026-02294-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "How nanophotonics can drive optical computing toward practical applications",
-        "link": "https://www.nature.com/articles/s41565-026-02264-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Publisher Correction: Edge-sharing RuO<sub>2</sub> single layer for stable and low overpotential acidic water electrolysis",
-        "link": "https://www.nature.com/articles/s41565-026-02288-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "A Dynamic Surface Metal\u2010Organic Framework Electrocatalyst: Potential\u2010Driven Activation of Atomically Defined Au Sites for the Hydrogen Evolution Reaction",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75601?af=R",
+        "title": "Charge\u2010Transfer State Enabled by Ionic\u2010Active\u2010Site Design in Polymeric Carbon Nitride for Visible\u2010Light\u2010Driven Benzylic C\u2012H Fluorination",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75616?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 02:05:25 -0700"
+        "date": "Mon, 14 Sep 2026 08:04:04 -0700"
     },
     {
-        "title": "Sulfur\u2010Mediated Hollow Engineering FeSe2/CuCoSe2 Heterojunction Nanozyme for Synergistic NIR\u2010II Photothermal/Enzymatic Therapy",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75732?af=R",
+        "title": "Self\u2010Limiting Oxide Dielectric Enables Interface\u2010State Engineering in p\u2010Type m\u2010GaTe Transistors Toward Bio\u2010Inspired Visual Recognition",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75621?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 01:54:32 -0700"
+        "date": "Mon, 14 Sep 2026 02:48:43 -0700"
     },
     {
-        "title": "Phytochemical Molecular Engineering Reconfiguring Solvation Chemistry and Interfacial Energy for Highly Reversible and Long\u2010Lifespan Zn\u2010Ion Batteries",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75704?af=R",
+        "title": "High\u2010Throughput Synthesis and Phase Evolution of Nd1\u2212xSrxNiO2 Combinatorial Infinite\u2010Layer Superconducting Thin Films",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75731?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 01:05:01 -0700"
+        "date": "Mon, 14 Sep 2026 02:42:42 -0700"
     },
     {
-        "title": "Defect\u2010Induced Local Piezoresponse of Anodic Nanotube Arrays on Ti\u2010Rich Medium\u2010Entropy Alloy for Stimulus\u2010Responsive Bioactive and Antibacterial Surfaces",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75749?af=R",
+        "title": "Energy\u2010Responsive Nb2C MXene\u2010Based Superwetting Sponge With Coupled Photothermal\u2010Electrothermal Heating for Multifunctional Environmental Remediation",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75611?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 01:03:11 -0700"
+        "date": "Mon, 14 Sep 2026 02:39:43 -0700"
     },
     {
-        "title": "One\u2010Pot Construction of Core\u2013Shell MnO/SiOx@NC Composites for High\u2010Performance SiOx Anodes via Synergistic Interfacial Engineering",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75671?af=R",
+        "title": "A Polar Magnetic Tetrachloroferrate Hybrid Crystal Enabling Piezoelectric Energy Harvesting and Nonlinear Optical Functionality",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75751?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 01:02:30 -0700"
+        "date": "Mon, 14 Sep 2026 02:36:40 -0700"
     },
     {
-        "title": "Straintronics and Twistronics in 2D Materials: Structural Control and Predictive Design",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75451?af=R",
+        "title": "Stacking\u2010Controlled Spontaneous Polarization in Zn\u2013In\u2013S Nanosheets for Efficient Piezo\u2010Photocatalytic H2O2 Production Toward Uranium Recovery",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75675?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 01:01:43 -0700"
+        "date": "Mon, 14 Sep 2026 02:36:26 -0700"
     },
     {
-        "title": "Enhancing Interfacial Stability Between NASICON\u2010Type Solid\u2010State Electrolyte and Lithium Metal Anode via Multifunctional Synergistic Interface Engineering",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75686?af=R",
+        "title": "Phosphate Group Induced High\u2010Voltage Materials: A Promising Cathode for Various Aqueous Batteries",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75741?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 00:10:08 -0700"
+        "date": "Mon, 14 Sep 2026 02:31:52 -0700"
     },
     {
-        "title": "Cationic Natural Scallion Membranes for Efficient Osmotic Power Generation",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75776?af=R",
+        "title": "Bioactive Gold Plasmonic Interfaces Meet Artificial Intelligence: Advancing Saliva\u2010Based Surface\u2010Enhanced Raman Spectroscopy Diagnostics",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75720?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 00:05:49 -0700"
+        "date": "Mon, 14 Sep 2026 02:28:44 -0700"
     },
     {
-        "title": "Compatibilizer\u2010Mediated Aggregation Suppression Enables High\u2010Performance Organic Photovoltaic Modules Processed From Green Solvents",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75705?af=R",
+        "title": "High Adhesion Superoleophobic Oil Microdroplets to Create Ocular Hypertension In Vivo",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.202600069?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 00:02:00 -0700"
+        "date": "Mon, 14 Sep 2026 02:24:16 -0700"
     },
     {
-        "title": "Decoupling the Retention\u2013Energy Trade\u2010Off Through Structural Reorganization of Synaptic Polyelectrolytes for Nonvolatile Neuromorphic Devices",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75766?af=R",
+        "title": "ZIF\u20108 Film Coatings Render Polymeric Device Surfaces Addressable by 1H/129Xe MRI",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75746?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sat, 12 Sep 2026 00:00:04 -0700"
+        "date": "Mon, 14 Sep 2026 02:22:52 -0700"
     },
     {
         "title": "Magnetic microrobots remove biofilms from medical implants",
@@ -228,6 +180,30 @@
         "date": "Sun, 23 Aug 2026 09:08:55 EDT"
     },
     {
+        "title": "Chip-Scale Optical Neural Networks Accelerate Real-Time Visual Data Processing",
+        "link": "https://www.azonano.com/news.aspx?newsID=41830",
+        "source": "AZoNano.com",
+        "date": "Tue, 15 Sep 2026 03:16:00 -0400"
+    },
+    {
+        "title": "New Semiconductor Modulators Overcome Bandwidth Trade-offs for Future Photonic Computing Circuits",
+        "link": "https://www.azonano.com/news.aspx?newsID=41829",
+        "source": "AZoNano.com",
+        "date": "Tue, 15 Sep 2026 03:03:00 -0400"
+    },
+    {
+        "title": "Phase-Type Spatial Modulators Enable Independent Pixel-Level Terahertz Wavefront Control",
+        "link": "https://www.azonano.com/news.aspx?newsID=41828",
+        "source": "AZoNano.com",
+        "date": "Tue, 15 Sep 2026 02:36:00 -0400"
+    },
+    {
+        "title": "A New Review Maps the Nanophotonic Potential of 2D Metal Oxides",
+        "link": "https://www.azonano.com/news.aspx?newsID=41827",
+        "source": "AZoNano.com",
+        "date": "Tue, 15 Sep 2026 02:14:00 -0400"
+    },
+    {
         "title": "Gold-Silver Tracks Steer Nanovehicles Along Defined Paths",
         "link": "https://www.azonano.com/news.aspx?newsID=41826",
         "source": "AZoNano.com",
@@ -262,29 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41821",
         "source": "AZoNano.com",
         "date": "Wed, 09 Sep 2026 01:20:00 -0400"
-    },
-    {
-        "title": "UW Madison Researchers Develop Battery-Free Pacemaker Powered by Patient Heartbeats",
-        "link": "https://www.azonano.com/news.aspx?newsID=41819",
-        "source": "AZoNano.com",
-        "date": "Tue, 08 Sep 2026 05:33:00 -0400"
-    },
-    {
-        "title": "Nanomaterials Offer Multiple Routes to Protect Healthy Tissue From Radiation Damage",
-        "link": "https://www.azonano.com/news.aspx?newsID=41818",
-        "source": "AZoNano.com",
-        "date": "Tue, 08 Sep 2026 01:45:00 -0400"
-    },
-    {
-        "title": "Nano-Silica Helps Steel Fiber Concrete Reach Its Strongest Tested Mix",
-        "link": "https://www.azonano.com/news.aspx?newsID=41817",
-        "source": "AZoNano.com",
-        "date": "Mon, 07 Sep 2026 00:49:00 -0400"
-    },
-    {
-        "title": "Modular Coatings Steer Nanoparticles Toward Specific Organs in Mice",
-        "link": "https://www.azonano.com/news.aspx?newsID=41816",
-        "source": "AZoNano.com",
-        "date": "Fri, 04 Sep 2026 01:41:00 -0400"
     }
 ]
