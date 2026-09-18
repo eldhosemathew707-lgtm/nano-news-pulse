@@ -1,5 +1,53 @@
 [
     {
+        "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
+        "link": "https://www.nature.com/articles/s41565-026-02274-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
+        "link": "https://www.nature.com/articles/s41565-026-02276-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Stretchable quantum dot displays achieve high definition",
+        "link": "https://www.nature.com/articles/s41565-026-02278-y",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "High-resolution intrinsically stretchable quantum-dot displays through thermally assisted intaglio transfer printing",
+        "link": "https://www.nature.com/articles/s41565-026-02272-4",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Single-gate, multipartite entanglement on a room-temperature quantum register",
+        "link": "https://www.nature.com/articles/s41565-026-02254-6",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Demonstration of on-chip all-optical switching of magnetization in integrated photonics",
+        "link": "https://www.nature.com/articles/s41565-026-02281-3",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Author Correction: Half-wave nanolasers and intracellular plasmonic lasing particles",
+        "link": "https://www.nature.com/articles/s41565-026-02295-x",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Author Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
+        "link": "https://www.nature.com/articles/s41565-026-02294-y",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Wide\u2010Bandgap Carbon Dots for Ultraviolet Photodetection: Structural Origins and Design Rules",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75788?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -60,6 +108,18 @@
         "date": "Thu, 17 Sep 2026 07:24:32 -0700"
     },
     {
+        "title": "Viscous-flow spinning produces stronger, highly thermally conductive graphene fibers",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70240.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 18 Sep 2026 13:18:00 GMT"
+    },
+    {
+        "title": "Ultrasound turns iron and water directly into magnetic iron oxide nanoparticles",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70239.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 18 Sep 2026 13:06:25 GMT"
+    },
+    {
         "title": "AI agents are emerging as the link between materials design and autonomous experimentation",
         "link": "https://www.nanowerk.com/spotlight/spotid=70238.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -108,16 +168,16 @@
         "date": "Wed, 16 Sep 2026 09:35:24 GMT"
     },
     {
-        "title": "Metasurface makes infrared images 1,000 times brighter without costly detectors",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70231.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 16 Sep 2026 09:21:56 GMT"
+        "title": "Caltech\u2019s tiny new chip can steer light in 74 quadrillionths of a second",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Fri, 18 Sep 2026 07:50:13 EDT"
     },
     {
-        "title": "Researchers design cationic manganese-ceria nanozyme for osteoarthritis treatment and cartilage diagnosis",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70230.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 15 Sep 2026 13:07:09 GMT"
+        "title": "Scientists are about to test Einstein\u2019s gravity with exotic matter",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Fri, 18 Sep 2026 07:07:25 EDT"
     },
     {
         "title": "A $100 detector can see invisible particles raining down from space",
@@ -166,18 +226,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
         "source": "Nanotechnology News -- ScienceDaily",
         "date": "Wed, 02 Sep 2026 01:28:30 EDT"
-    },
-    {
-        "title": "This strange \u201cspacetime crystal\u201d can suddenly become a black hole",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Sun, 30 Aug 2026 11:05:09 EDT"
-    },
-    {
-        "title": "A new recipe unlocks \u201cimpossible\u201d nanocrystals for LEDs, implants, and superconductors",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Sun, 30 Aug 2026 07:45:32 EDT"
     },
     {
         "title": "Self-Repairing Rust Prevention Conquers Corrosion",
