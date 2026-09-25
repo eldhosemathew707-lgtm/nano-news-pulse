@@ -1,53 +1,5 @@
 [
     {
-        "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
-        "link": "https://www.nature.com/articles/s41565-026-02274-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
-        "link": "https://www.nature.com/articles/s41565-026-02276-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Stretchable quantum dot displays achieve high definition",
-        "link": "https://www.nature.com/articles/s41565-026-02278-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "High-resolution intrinsically stretchable quantum-dot displays through thermally assisted intaglio transfer printing",
-        "link": "https://www.nature.com/articles/s41565-026-02272-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Single-gate, multipartite entanglement on a room-temperature quantum register",
-        "link": "https://www.nature.com/articles/s41565-026-02254-6",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Demonstration of on-chip all-optical switching of magnetization in integrated photonics",
-        "link": "https://www.nature.com/articles/s41565-026-02281-3",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Author Correction: Half-wave nanolasers and intracellular plasmonic lasing particles",
-        "link": "https://www.nature.com/articles/s41565-026-02295-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Author Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
-        "link": "https://www.nature.com/articles/s41565-026-02294-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Deciphering Molecular Charge Anisotropy: The Case of Antibody Solutions",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75728?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -228,6 +180,12 @@
         "date": "Sat, 12 Sep 2026 10:08:20 EDT"
     },
     {
+        "title": "Nanomaterials Give Coatings New Functions, but Industrial Hurdles Slow Wider Use",
+        "link": "https://www.azonano.com/news.aspx?newsID=41841",
+        "source": "AZoNano.com",
+        "date": "Thu, 24 Sep 2026 18:25:00 -0400"
+    },
+    {
         "title": "From Development to Flight: PI\u2019s Motion Technology Supports NASA's Roman Space Telescope",
         "link": "https://www.azonano.com/news.aspx?newsID=41840",
         "source": "AZoNano.com",
@@ -280,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41831",
         "source": "AZoNano.com",
         "date": "Wed, 16 Sep 2026 00:44:00 -0400"
-    },
-    {
-        "title": "Chip-Scale Optical Neural Networks Accelerate Real-Time Visual Data Processing",
-        "link": "https://www.azonano.com/news.aspx?newsID=41830",
-        "source": "AZoNano.com",
-        "date": "Tue, 15 Sep 2026 03:16:00 -0400"
     }
 ]
