@@ -1,53 +1,5 @@
 [
     {
-        "title": "Sensing forces that shape tumours",
-        "link": "https://www.nature.com/articles/s41565-026-02284-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Mechanical stress remodelling drives epithelial\u2013mesenchymal transition in the tumour microenvironment",
-        "link": "https://www.nature.com/articles/s41565-026-02282-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
-        "link": "https://www.nature.com/articles/s41565-026-02274-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
-        "link": "https://www.nature.com/articles/s41565-026-02276-0",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Stretchable quantum dot displays achieve high definition",
-        "link": "https://www.nature.com/articles/s41565-026-02278-y",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "High-resolution intrinsically stretchable quantum-dot displays through thermally assisted intaglio transfer printing",
-        "link": "https://www.nature.com/articles/s41565-026-02272-4",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Single-gate, multipartite entanglement on a room-temperature quantum register",
-        "link": "https://www.nature.com/articles/s41565-026-02254-6",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Demonstration of on-chip all-optical switching of magnetization in integrated photonics",
-        "link": "https://www.nature.com/articles/s41565-026-02281-3",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
         "title": "Quantitative Imaging of Water Diffusion in Brain Parenchyma at Cellular Resolution Using Stimulated Raman Scattering Microscopy",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75652?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -108,6 +60,54 @@
         "date": "Sun, 27 Sep 2026 09:54:56 -0700"
     },
     {
+        "title": "How to balance quantum batteries' high power with stable energy delivery?",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70298.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 17:28:52 GMT"
+    },
+    {
+        "title": "Researchers develop a genetic switch that works in both bacteria and yeast",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70297.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 17:20:13 GMT"
+    },
+    {
+        "title": "Nanotechnology moves into military drones through batteries, sensors and coatings",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70296.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 14:58:28 GMT"
+    },
+    {
+        "title": "Researchers develop battery-free flexible device for neuromorphic sensing",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70295.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 14:19:37 GMT"
+    },
+    {
+        "title": "Ultrathin electronic skin makes touch visible in real time",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70294.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 13:23:21 GMT"
+    },
+    {
+        "title": "New OECD guidance tracks where nanoparticles go in the body",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70293.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 13:15:48 GMT"
+    },
+    {
+        "title": "AI extracts hidden reaction kinetics from chemistry optimization data",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70292.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 13:02:35 GMT"
+    },
+    {
+        "title": "These polydopamine nanotubes heat, heal and stimulate cells",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70291.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 28 Sep 2026 12:52:05 GMT"
+    },
+    {
         "title": "Shaped ultrafast light switches magnetism without an external magnetic field",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70290.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -118,54 +118,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70289.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Sun, 27 Sep 2026 13:22:30 GMT"
-    },
-    {
-        "title": "2D materials could provide the missing link for programmable quantum photonics",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70288.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Sat, 26 Sep 2026 13:15:04 GMT"
-    },
-    {
-        "title": "Enceladus ice plumes may concentrate biosignatures for easier detection",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70287.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Sat, 26 Sep 2026 13:09:21 GMT"
-    },
-    {
-        "title": "A single temporary stimulus can redirect cell fate without permanent gene control",
-        "link": "https://www.nanowerk.com/news2/biotech/newsid=70286.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Sat, 26 Sep 2026 12:58:48 GMT"
-    },
-    {
-        "title": "New light detector switches between left- and right-handed light",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70285.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 25 Sep 2026 14:32:49 GMT"
-    },
-    {
-        "title": "Scientists discover rare two-direction polarization in a 2D material",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70284.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 25 Sep 2026 14:18:40 GMT"
-    },
-    {
-        "title": "A metasurface biosensor sensor detects disease with a single camera",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70283.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 25 Sep 2026 14:04:18 GMT"
-    },
-    {
-        "title": "Is the universe twisted? New test probes a possible twist in its oldest light",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70282.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 25 Sep 2026 13:29:16 GMT"
-    },
-    {
-        "title": "Laser-powered method detects elusive cancer biomarkers in minutes",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70281.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 25 Sep 2026 13:08:25 GMT"
     },
     {
         "title": "Quantum computer simulates matter \u201cpopping into existence\u201d",
