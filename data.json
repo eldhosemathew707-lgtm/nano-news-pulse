@@ -1,5 +1,59 @@
 [
     {
+        "title": "Stopped-light-enhanced gravitational force sensing",
+        "link": "https://www.nature.com/articles/s41565-026-02298-8",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Single-crystal rhombohedral boron nitride wafers for integrated sliding ferroelectric memory",
+        "link": "https://www.nature.com/articles/s41565-026-02280-4",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Sensing forces that shape tumours",
+        "link": "https://www.nature.com/articles/s41565-026-02284-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Mechanical stress remodelling drives epithelial\u2013mesenchymal transition in the tumour microenvironment",
+        "link": "https://www.nature.com/articles/s41565-026-02282-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
+        "link": "https://www.nature.com/articles/s41565-026-02274-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
+        "link": "https://www.nature.com/articles/s41565-026-02276-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Stretchable quantum dot displays achieve high definition",
+        "link": "https://www.nature.com/articles/s41565-026-02278-y",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "High-resolution intrinsically stretchable quantum-dot displays through thermally assisted intaglio transfer printing",
+        "link": "https://www.nature.com/articles/s41565-026-02272-4",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Recent Progress in High\u2010Entropy Li\u2010Rich Cathodes for Advanced Lithium\u2010Ion Batteries",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75733?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 28 Sep 2026 08:18:28 -0700"
+    },
+    {
         "title": "Quantitative Imaging of Water Diffusion in Brain Parenchyma at Cellular Resolution Using Stimulated Raman Scattering Microscopy",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75652?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -52,12 +106,6 @@
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76028?af=R",
         "source": "Wiley: Small: Table of Contents",
         "date": "Sun, 27 Sep 2026 09:55:40 -0700"
-    },
-    {
-        "title": "Scalable and Durable Symmetric Electrochromic Devices via Zinc\u2013Iodine Electrodeposition for Smart Window Applications",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76024?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 27 Sep 2026 09:54:56 -0700"
     },
     {
         "title": "How to balance quantum batteries' high power with stable energy delivery?",
@@ -180,6 +228,12 @@
         "date": "Sun, 13 Sep 2026 07:22:01 EDT"
     },
     {
+        "title": "Heat-Responsive Fluorofluidic Gel Lowers Contact Resistance in High-Heat Electronics",
+        "link": "https://www.azonano.com/news.aspx?newsID=41844",
+        "source": "AZoNano.com",
+        "date": "Tue, 29 Sep 2026 07:00:00 -0400"
+    },
+    {
         "title": "Essential Oil Nanocoatings Could Help Food Stay Fresh for Longer, but There\u2019s a Catch",
         "link": "https://www.azonano.com/news.aspx?newsID=41842",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41833",
         "source": "AZoNano.com",
         "date": "Wed, 16 Sep 2026 08:03:00 -0400"
-    },
-    {
-        "title": "Organic Nanoplatforms Could Make Theranostic Medicine Safer and More Precise",
-        "link": "https://www.azonano.com/news.aspx?newsID=41832",
-        "source": "AZoNano.com",
-        "date": "Wed, 16 Sep 2026 01:33:00 -0400"
     }
 ]
