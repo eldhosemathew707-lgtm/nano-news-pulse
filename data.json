@@ -1,5 +1,53 @@
 [
     {
+        "title": "Atomic-scale visualization of three-dimensional magnetization vectors with competing spin Hamiltonian interactions",
+        "link": "https://www.nature.com/articles/s41565-026-02270-6",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "The very hungry nanopillar",
+        "link": "https://www.nature.com/articles/s41565-026-02292-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes",
+        "link": "https://www.nature.com/articles/s41565-026-02301-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Stopped-light-enhanced gravitational force sensing",
+        "link": "https://www.nature.com/articles/s41565-026-02298-8",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Single-crystal rhombohedral boron nitride wafers for integrated sliding ferroelectric memory",
+        "link": "https://www.nature.com/articles/s41565-026-02280-4",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Sensing forces that shape tumours",
+        "link": "https://www.nature.com/articles/s41565-026-02284-0",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Mechanical stress remodelling drives epithelial\u2013mesenchymal transition in the tumour microenvironment",
+        "link": "https://www.nature.com/articles/s41565-026-02282-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
+        "link": "https://www.nature.com/articles/s41565-026-02274-2",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Synergistic Electrostatic and Mechanical Anchoring at Cathode\u2013Current Collector Junctions for Durable Sodium\u2010Ion Batteries",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75852?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -180,6 +228,12 @@
         "date": "Mon, 21 Sep 2026 09:08:40 EDT"
     },
     {
+        "title": "Polymeric Nanomedicines Reprogram the Tumor Microenvironment to Turn Cold Tumors Hot",
+        "link": "https://www.azonano.com/news.aspx?newsID=41864",
+        "source": "AZoNano.com",
+        "date": "Sat, 10 Oct 2026 08:13:00 -0400"
+    },
+    {
         "title": "TADF Strategy Extends Successfully to Ternary and Tandem Solar Architectures",
         "link": "https://www.azonano.com/news.aspx?newsID=41863",
         "source": "AZoNano.com",
@@ -232,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41855",
         "source": "AZoNano.com",
         "date": "Thu, 08 Oct 2026 01:23:00 -0400"
-    },
-    {
-        "title": "Nanoscale Diffraction Mapping Transitions Quantum Manufacturing From Trial-and-Error to Design",
-        "link": "https://www.azonano.com/news.aspx?newsID=41854",
-        "source": "AZoNano.com",
-        "date": "Thu, 08 Oct 2026 01:12:00 -0400"
     }
 ]
