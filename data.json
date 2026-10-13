@@ -1,5 +1,35 @@
 [
     {
+        "title": "Entropy\u2010Engineered High\u2010Entropy Spinel Oxides with Balanced Lattice Oxygen Reactivity for Efficient Chemical Looping Toluene Reforming",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76258?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Tue, 13 Oct 2026 00:43:39 -0700"
+    },
+    {
+        "title": "Organic Electrodes With Excellent Rate Capability and Cycling Stability Enabled by Assembling Active Materials onto Conductive Agents",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76200?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Tue, 13 Oct 2026 00:34:53 -0700"
+    },
+    {
+        "title": "Structure\u2010Property Engineering in Ag23 Nanoclusters for Electrocatalytic Nitrate Reduction",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76210?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 12 Oct 2026 01:47:22 -0700"
+    },
+    {
+        "title": "Metal Active\u2010Site Engineering in High\u2010Entropy Catalysts for Catalytic Applications",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76239?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 12 Oct 2026 01:45:13 -0700"
+    },
+    {
+        "title": "Polyoxometalate\u2010Scaffolded Perylene Diimide Dimers: Preorganization and Dynamic Charge Regulation for Enhanced and Durable Photosensitization",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76213?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 12 Oct 2026 01:34:38 -0700"
+    },
+    {
         "title": "Interlayer\u2010Confined LiNO3${\\rm LiNO}_3$ Reservoir Enables the Formation of a Li\u2010Containing Hybrid SEI for Robust Sodium Metal Anodes",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75985?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -28,36 +58,6 @@
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76223?af=R",
         "source": "Wiley: Small: Table of Contents",
         "date": "Sun, 11 Oct 2026 09:13:42 -0700"
-    },
-    {
-        "title": "Diluent Conformational Flexibility Enhances Interfacial Kinetics in Safe High\u2010Voltage Potassium Batteries",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76224?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:11:53 -0700"
-    },
-    {
-        "title": "Failure\u2010Guided Coupling of Interphase and Solvation Chemistry for Durable Aqueous Zn\u2013S Batteries",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76154?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:10:28 -0700"
-    },
-    {
-        "title": "Liquid Metal Multi\u2010Functional Droplets Enabled High\u2010Performance Tumor Therapy With Four Synergistic Mechano\u2010Thermal\u2010Chemo\u2010Freezing Effects",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76152?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:09:01 -0700"
-    },
-    {
-        "title": "One\u2010Pot Construction of Amine\u2010Linked Covalent Organic Frameworks via Photoredox\u2010Catalyzed Reductive Amination",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76206?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:07:37 -0700"
-    },
-    {
-        "title": "Multi\u2010Scale 3D Printing of Magnetic Polymer Nanocomposites with Controlled Particle Dispersion and Hyperthermic Response",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76111?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:06:08 -0700"
     },
     {
         "title": "Tiny robots speed medicine through body to the heart",
@@ -180,6 +180,12 @@
         "date": "Wed, 30 Sep 2026 23:06:56 EDT"
     },
     {
+        "title": "Green-Synthesized Nanoparticles Improve Key Properties of Glass Ionomer Cements in Laboratory Studies",
+        "link": "https://www.azonano.com/news.aspx?newsID=41866",
+        "source": "AZoNano.com",
+        "date": "Tue, 13 Oct 2026 06:30:00 -0400"
+    },
+    {
         "title": "Researchers Design 3D Photonic Crystals for Targeted Photon Density of States",
         "link": "https://www.azonano.com/news.aspx?newsID=41865",
         "source": "AZoNano.com",
@@ -232,11 +238,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41857",
         "source": "AZoNano.com",
         "date": "Thu, 08 Oct 2026 08:03:00 -0400"
-    },
-    {
-        "title": "Researchers Develop Manganese-Doped Carbon Nanodots for Safer MRI",
-        "link": "https://www.azonano.com/news.aspx?newsID=41856",
-        "source": "AZoNano.com",
-        "date": "Thu, 08 Oct 2026 01:36:00 -0400"
     }
 ]
