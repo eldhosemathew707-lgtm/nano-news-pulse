@@ -1,5 +1,29 @@
 [
     {
+        "title": "Sliding ferroelectricity scales up",
+        "link": "https://www.nature.com/articles/s41565-026-02293-z",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Evidence for an excitonic insulator",
+        "link": "https://www.nature.com/articles/s41565-026-02297-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Gate-induced layer sliding drives non-volatile switching of magnetism in tetralayer graphene",
+        "link": "https://www.nature.com/articles/s41565-026-02306-x",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics",
+        "link": "https://www.nature.com/articles/s41565-026-02283-1",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "From a single atom to manufacturable quantum processors in silicon",
         "link": "https://www.nature.com/articles/s41565-026-02300-3",
         "source": "Nature Nanotechnology",
@@ -24,88 +48,100 @@
         "date": "Latest"
     },
     {
-        "title": "How display technology adopted quantum dots",
-        "link": "https://www.nature.com/articles/s41565-026-02285-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "How spin-transfer-torque magnetoresistive random access memory bridged spintronics research and the microelectronics industry",
-        "link": "https://www.nature.com/articles/s41565-026-02290-2",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "From DNA to full-length proteins through nanopore sequencing",
-        "link": "https://www.nature.com/articles/s41565-026-02302-1",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Where is my graphene battery?",
-        "link": "https://www.nature.com/articles/s41565-026-02279-x",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Entropy\u2010Engineered High\u2010Entropy Spinel Oxides with Balanced Lattice Oxygen Reactivity for Efficient Chemical Looping Toluene Reforming",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76258?af=R",
+        "title": "Engineering Carbon Nanotube Quantum Well Defects With Recognition Tripeptides for Optical Detection of Extracellular Vesicles in Plasma",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76231?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Tue, 13 Oct 2026 00:43:39 -0700"
+        "date": "Tue, 13 Oct 2026 03:22:17 -0700"
     },
     {
-        "title": "Organic Electrodes With Excellent Rate Capability and Cycling Stability Enabled by Assembling Active Materials onto Conductive Agents",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76200?af=R",
+        "title": "Low\u2010Platinum Medium\u2010Entropy Intermetallic Compounds Based on the Synergistic Utilization of Spent Lithium\u2010Ion Batteries for High\u2010Efficiency Lithium\u2013Oxygen Batteries",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75925?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Tue, 13 Oct 2026 00:34:53 -0700"
+        "date": "Tue, 13 Oct 2026 03:18:25 -0700"
     },
     {
-        "title": "Structure\u2010Property Engineering in Ag23 Nanoclusters for Electrocatalytic Nitrate Reduction",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76210?af=R",
+        "title": "Light\u2010Driven Thermal Nanoreactors: A Framework for Integrated Photothermal Conversion, Sensing and Control",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76235?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 01:47:22 -0700"
+        "date": "Tue, 13 Oct 2026 03:13:44 -0700"
     },
     {
-        "title": "Metal Active\u2010Site Engineering in High\u2010Entropy Catalysts for Catalytic Applications",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76239?af=R",
+        "title": "Position Over Composition: Positional Isomerism Enables Encapsulation\u2010Independent Intrinsic Stability in a Conjugated Polymer",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76208?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 01:45:13 -0700"
+        "date": "Tue, 13 Oct 2026 03:12:21 -0700"
     },
     {
-        "title": "Polyoxometalate\u2010Scaffolded Perylene Diimide Dimers: Preorganization and Dynamic Charge Regulation for Enhanced and Durable Photosensitization",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76213?af=R",
+        "title": "From Raman Spectral Fingerprints to Interfacial Diagnostics in Nitrate Electroreduction",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76240?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 01:34:38 -0700"
+        "date": "Tue, 13 Oct 2026 03:10:56 -0700"
     },
     {
-        "title": "Interlayer\u2010Confined LiNO3${\\rm LiNO}_3$ Reservoir Enables the Formation of a Li\u2010Containing Hybrid SEI for Robust Sodium Metal Anodes",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75985?af=R",
+        "title": "Ultrasound\u2010Responsive Hydrogels Empowered by Two\u2010Dimensional Sonosensitizers Enable Spatiotemporally Controlled Fracture Fixation and Bone Regeneration",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76230?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 01:27:07 -0700"
+        "date": "Tue, 13 Oct 2026 03:02:52 -0700"
     },
     {
-        "title": "Supramolecular Assembly of Photoresponsive Molecular Amphiphile for Functional Soft Matter",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76172?af=R",
+        "title": "Elucidating Poisson\u2010Like Anisotropic Deformation in Flexible MOFs for Precision C2 Hydrocarbon/CO2 Sieving via Multiscale Simulations and Interpretable Machine Learning",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76254?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 01:04:48 -0700"
+        "date": "Tue, 13 Oct 2026 03:01:31 -0700"
     },
     {
-        "title": "Enhancing the Electrical Performance of LiNi0.65Co0.3Al0.05O2 Oxide Cathode by Substituting Mn for Co",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76196?af=R",
+        "title": "Enhancing Interfacial Compatibility via Solubility Parameter Control for Simultaneous Strengthening and Toughening of Poly(urethane\u2010urea) Elastomers",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75761?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 12 Oct 2026 00:44:25 -0700"
+        "date": "Tue, 13 Oct 2026 02:56:29 -0700"
     },
     {
-        "title": "An \u2018Empty\u2019 [Fe16] Cage and its Transformation into [Fe17] and [Fe30]",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76177?af=R",
+        "title": "Issue Information",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76072?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:16:27 -0700"
+        "date": "Tue, 13 Oct 2026 02:46:56 -0700"
     },
     {
-        "title": "Enhanced High\u2010Voltage Fast\u2010Charging Capability for Lithium\u2010Ion Battery Cathodes via Multifunctional Biphasic Interfacial Engineering",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76223?af=R",
+        "title": "Martian\u2011Regolith Simulant Confined Nanogenerators for Wireless Tactile Sensing for Human\u2010Machine Interface (Small 57/2026)",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75527?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Sun, 11 Oct 2026 09:13:42 -0700"
+        "date": "Tue, 13 Oct 2026 02:46:56 -0700"
+    },
+    {
+        "title": "Nanoscale switching mechanism reveals how ferroelectric memory stores data",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70412.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 10:21:47 GMT"
+    },
+    {
+        "title": "Beetle-inspired soft robot combines artificial muscles and carbon nanotube sensors",
+        "link": "https://www.nanowerk.com/news2/robotics/newsid=70411.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 10:11:26 GMT"
+    },
+    {
+        "title": "Hidden magnetic field could enable topological superconductivity without external magnets",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70410.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 09:56:21 GMT"
+    },
+    {
+        "title": "Bacteria turn 3D-printed sand into solid building materials",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70409.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 09:49:03 GMT"
+    },
+    {
+        "title": "New transistor enables time-controlled encryption without external clocks",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70408.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 09:34:00 GMT"
+    },
+    {
+        "title": "New technique controls exactly where 2D semiconductor crystals grow",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70407.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 09:23:56 GMT"
     },
     {
         "title": "Optical skyrmions could control the motion of magnetic skyrmions",
@@ -132,40 +168,10 @@
         "date": "Tue, 13 Oct 2026 14:56:37 GMT"
     },
     {
-        "title": "Chalcogenide perovskites emit light far more efficiently than expected",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70402.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 13 Oct 2026 14:49:35 GMT"
-    },
-    {
-        "title": "Scientists discover hidden magnetic rotation reversal in solar wind turbulence",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70401.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 13 Oct 2026 14:41:15 GMT"
-    },
-    {
-        "title": "Tiny robots speed medicine through body to the heart",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70400.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 12 Oct 2026 16:26:00 GMT"
-    },
-    {
-        "title": "New vapor-based process creates ultralight aerogels without liquid processing",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70399.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 12 Oct 2026 09:21:57 GMT"
-    },
-    {
-        "title": "New quantum information research offers clues to the origin of gravity",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70398.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 12 Oct 2026 09:11:49 GMT"
-    },
-    {
-        "title": "New battery glue could make lithium-ion batteries easier to manufacture and recycle",
-        "link": "https://www.nanowerk.com/news2/green/newsid=70397.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Sun, 11 Oct 2026 14:13:58 GMT"
+        "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Tue, 13 Oct 2026 20:01:11 EDT"
     },
     {
         "title": "Scientists make stunning discovery that could help explain why life exists",
@@ -220,12 +226,6 @@
         "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
         "source": "Nanotechnology News -- ScienceDaily",
         "date": "Fri, 02 Oct 2026 07:08:12 EDT"
-    },
-    {
-        "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Wed, 30 Sep 2026 23:06:56 EDT"
     },
     {
         "title": "Green-Synthesized Nanoparticles Improve Key Properties of Glass Ionomer Cements in Laboratory Studies",
