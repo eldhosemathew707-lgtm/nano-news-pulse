@@ -108,6 +108,24 @@
         "date": "Tue, 13 Oct 2026 02:46:56 -0700"
     },
     {
+        "title": "New method reveals an exoplanet\u2019s true shape for the first time",
+        "link": "https://www.nanowerk.com/news2/space/newsid=70415.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 16:15:58 GMT"
+    },
+    {
+        "title": "Researchers cut precious metal use in half for green hydrogen production",
+        "link": "https://www.nanowerk.com/news2/green/newsid=70414.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 15:14:08 GMT"
+    },
+    {
+        "title": "New photonic chip detects properties that could make optical devices more robust",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70413.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 14 Oct 2026 13:36:24 GMT"
+    },
+    {
         "title": "Nanoscale switching mechanism reveals how ferroelectric memory stores data",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70412.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -148,24 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70406.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Tue, 13 Oct 2026 20:28:21 GMT"
-    },
-    {
-        "title": "A scalable route to high-performance solution-processed 2D electronics",
-        "link": "https://www.nanowerk.com/spotlight/spotid=70405.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 13 Oct 2026 17:38:35 GMT"
-    },
-    {
-        "title": "Scientists identify how to prevent protein production errors in mRNA vaccines",
-        "link": "https://www.nanowerk.com/news2/biotech/newsid=70404.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 13 Oct 2026 15:04:44 GMT"
-    },
-    {
-        "title": "Liquid metal process creates nanoporous silicon carbide at much lower temperatures",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70403.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 13 Oct 2026 14:56:37 GMT"
     },
     {
         "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
@@ -228,6 +228,12 @@
         "date": "Fri, 02 Oct 2026 07:08:12 EDT"
     },
     {
+        "title": "Terahertz Nanoscopy Reveals How Ultrafast In-Plane Spin-Driven Currents Become Visible",
+        "link": "https://www.azonano.com/news.aspx?newsID=41867",
+        "source": "AZoNano.com",
+        "date": "Wed, 14 Oct 2026 08:41:00 -0400"
+    },
+    {
         "title": "Green-Synthesized Nanoparticles Improve Key Properties of Glass Ionomer Cements in Laboratory Studies",
         "link": "https://www.azonano.com/news.aspx?newsID=41866",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41858",
         "source": "AZoNano.com",
         "date": "Fri, 09 Oct 2026 05:55:00 -0400"
-    },
-    {
-        "title": "Nanoplatform Combines MRI Monitoring With Dual ROS Therapy To Shrink Glioma-Derived Tumors In Mice",
-        "link": "https://www.azonano.com/news.aspx?newsID=41857",
-        "source": "AZoNano.com",
-        "date": "Thu, 08 Oct 2026 08:03:00 -0400"
     }
 ]
