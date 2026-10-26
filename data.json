@@ -48,6 +48,12 @@
         "date": "Latest"
     },
     {
+        "title": "Iron\u2010Dependent Interfacial Regulation Balances Osteogenesis and Iron Homeostasis in Bilayer Hydrogels for Periodontal Bone Regeneration",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76098?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Sun, 25 Oct 2026 23:56:50 -0700"
+    },
+    {
         "title": "Titanium Oxide Thin Films With Metal Nanodisks as Plasmonic Metamaterial Photocatalyst Sheets for IPA\u2010Assisted CO2 Reduction",
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76358?af=R",
         "source": "Wiley: Small: Table of Contents",
@@ -100,12 +106,6 @@
         "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76247?af=R",
         "source": "Wiley: Small: Table of Contents",
         "date": "Fri, 23 Oct 2026 07:33:57 -0700"
-    },
-    {
-        "title": "Film\u2010State Low\u2010lying LUMO\u2010Derived Electronic Structure of Fusion\u2010Atom Boron\u2010Doped Polycyclic Aromatic Hydrocarbons",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76420?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Fri, 23 Oct 2026 07:32:38 -0700"
     },
     {
         "title": "AI tool maps hidden microRNA binding sites in circular RNA",
@@ -228,6 +228,12 @@
         "date": "Fri, 09 Oct 2026 21:59:39 EDT"
     },
     {
+        "title": "Diimmonium Nano-Agents Improve Photoacoustic Imaging Contrast At 1700 nm",
+        "link": "https://www.azonano.com/news.aspx?newsID=41878",
+        "source": "AZoNano.com",
+        "date": "Mon, 26 Oct 2026 05:26:00 -0400"
+    },
+    {
         "title": "Sunlight Helps Vincristine Form Drug-Bearing Gold Nanoparticles in Five Minutes",
         "link": "https://www.azonano.com/news.aspx?newsID=41877",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41869",
         "source": "AZoNano.com",
         "date": "Thu, 15 Oct 2026 03:33:00 -0400"
-    },
-    {
-        "title": "Real-Time X-Ray Fluorescence Targeting Accelerates Nanoscale Pollution Particle Characterization",
-        "link": "https://www.azonano.com/news.aspx?newsID=41868",
-        "source": "AZoNano.com",
-        "date": "Thu, 15 Oct 2026 03:22:00 -0400"
     }
 ]
