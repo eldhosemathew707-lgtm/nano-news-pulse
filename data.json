@@ -108,6 +108,30 @@
         "date": "Mon, 02 Nov 2026 06:38:05 -0800"
     },
     {
+        "title": "A biocomputer that runs on living bacteria",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70530.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 21:14:17 GMT"
+    },
+    {
+        "title": "Hydroxyl-modified carbon nanotubes extend zinc-iodine battery life",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70529.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 21:05:48 GMT"
+    },
+    {
+        "title": "Smartwatch technology tracks hand movements for rehabilitation and health monitoring",
+        "link": "https://www.nanowerk.com/news2/health/newsid=70528.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 20:45:59 GMT"
+    },
+    {
+        "title": "Fast ferroelectric capacitors switch at just 0.6 volts",
+        "link": "https://www.nanowerk.com/spotlight/spotid=70527.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 17:25:11 GMT"
+    },
+    {
         "title": "Laser writing creates nanoscale patterns of superconductivity",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70526.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -142,30 +166,6 @@
         "link": "https://www.nanowerk.com/spotlight/spotid=70521.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Mon, 02 Nov 2026 16:34:22 GMT"
-    },
-    {
-        "title": "Robots and AI optimize perovskite solar cell fabrication",
-        "link": "https://www.nanowerk.com/news2/green/newsid=70520.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 02 Nov 2026 11:55:57 GMT"
-    },
-    {
-        "title": "Overlooked mineral may explain how asteroid Ryugu preserved its ancient chemistry",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70519.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 02 Nov 2026 11:46:10 GMT"
-    },
-    {
-        "title": "A flexible new route to designer materials built from nanoparticles",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70518.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 02 Nov 2026 11:36:42 GMT"
-    },
-    {
-        "title": "Trapped light enables a phase transition in a one-dimensional spin chain",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70517.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Sun, 01 Nov 2026 22:15:30 GMT"
     },
     {
         "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
@@ -228,6 +228,12 @@
         "date": "Thu, 22 Oct 2026 07:30:49 EDT"
     },
     {
+        "title": "Programmable Hydrogel-Nanocapsule System Improves Cartilage Repair in Osteoarthritis Models",
+        "link": "https://www.azonano.com/news.aspx?newsID=41887",
+        "source": "AZoNano.com",
+        "date": "Tue, 03 Nov 2026 09:08:00 -0500"
+    },
+    {
         "title": "Nanozyme Cuts Liver Fibrosis While Revealing Disease Stage On MRI",
         "link": "https://www.azonano.com/news.aspx?newsID=41886",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41878",
         "source": "AZoNano.com",
         "date": "Mon, 26 Oct 2026 05:26:00 -0500"
-    },
-    {
-        "title": "Sunlight Helps Vincristine Form Drug-Bearing Gold Nanoparticles in Five Minutes",
-        "link": "https://www.azonano.com/news.aspx?newsID=41877",
-        "source": "AZoNano.com",
-        "date": "Thu, 22 Oct 2026 07:35:00 -0500"
     }
 ]
