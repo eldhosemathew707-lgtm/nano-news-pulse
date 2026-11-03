@@ -1,5 +1,17 @@
 [
     {
+        "title": "Three-dimensional imaging of individual carbon atoms",
+        "link": "https://www.nature.com/articles/s41565-026-02316-9",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Rational design of lipid nanoparticles for brain delivery of RNA therapeutics",
+        "link": "https://www.nature.com/articles/s41565-026-02326-7",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "NanostarDB: an interactive knowledgebase for standardized annotation, discovery and reuse of nucleic acid nanostructure designs",
         "link": "https://www.nature.com/articles/s41565-026-02307-w",
         "source": "Nature Nanotechnology",
@@ -36,76 +48,88 @@
         "date": "Latest"
     },
     {
-        "title": "Sliding ferroelectricity scales up",
-        "link": "https://www.nature.com/articles/s41565-026-02293-z",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Evidence for an excitonic insulator",
-        "link": "https://www.nature.com/articles/s41565-026-02297-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Issue Information",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76076?af=R",
+        "title": "RETRACTION: Injectable and Crosslinkable PLGA\u2010Based Microribbons as 3D Macroporous Stem Cell Niche",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76485?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Tue, 03 Nov 2026 00:10:17 -0800"
     },
     {
-        "title": "Hybrid Emulsion\u2010Dispersion (HED) Polymerization Enables One\u2010Pot Synthesis of Functional Janus Nanoparticles (Small 61/2026)",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75998?af=R",
+        "title": "Pressure\u2010Induced Disorder\u2010to\u2010Order Transition in Pb2SbS2I3 Enhances Photoelectric Response",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76598?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:50:34 -0800"
     },
     {
-        "title": "Stoichiometric Binding of Cyclophilin\u2010A to The HIV\u20101 Capsid Modulates Its Mechanoelastic Properties (Small 61/2026)",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76327?af=R",
+        "title": "Conformationally Adaptive PTrp\u2010BODIPY Host\u2013Guest Interfaces for Multichannel Phototheranostics",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76554?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:44:20 -0800"
     },
     {
-        "title": "Perovskite\u2010Based Catalysts for the Oxygen Evolution Reaction: Synthesis, Device Relevant Performance, and Scale\u2010Up Strategies (Small 61/2026)",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76329?af=R",
+        "title": "Crystallographic Alignment Reshapes the Electronic Landscape and Enhances Charge Transport in Indium Gallium Oxide Thin\u2010Film Transistors",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76619?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:40:31 -0800"
     },
     {
-        "title": "Adhesive Protein Nanoparticles Control Emulsion Properties via Tunable Interdroplet Linking (Small 61/2026)",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76332?af=R",
+        "title": "Spin\u2010State\u2010Coupled Redox Chemistry in Rechargeable Battery Materials",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76604?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:32:29 -0800"
     },
     {
-        "title": "Perovskite\u2010Based Catalysts for the Oxygen Evolution Reaction: Synthesis, Device Relevant Performance, and Scale\u2010Up Strategies",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75231?af=R",
+        "title": "Ultrafast TiS3/WS2 Polarization\u2010Sensitive Photodetectors for Intelligent Image Decryption and High\u2010Capacity Optical Data Transmission",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76606?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:20:06 -0800"
     },
     {
-        "title": "Stabilization and Regulatory Strategies for All\u2010Inorganic Cesium Lead Halide Perovskite Black Phase",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75847?af=R",
+        "title": "Grain\u2010Boundary Engineering for Electrocatalysis: From Precise Structural Analysis to Reaction\u2010Pathway Regulation",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76545?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 22:10:12 -0800"
     },
     {
-        "title": "From Fundamentals to Engineering Sustainable Triboelectric Materials: A Review of Cellulose Platforms",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75882?af=R",
+        "title": "Aqueous Ammonium Ion Hybrid Supercapacitor: A Diffusion Dynamics Perspective",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76503?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 06:41:04 -0800"
     },
     {
-        "title": "Recent Progress of Single\u2010Atom Catalysts for High\u2010Performance Metal\u2010Sulfur Batteries",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75895?af=R",
+        "title": "2D Materials and Beyond: Tomorrow's Printable Low\u2010Dimensional Nanostructures and Hybrids",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76448?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 06:38:48 -0800"
     },
     {
-        "title": "Covalent Organic Polymers Beyond the Shadows: Synthetic Strategies, Functional Attributes, and Emerging Applications",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75901?af=R",
+        "title": "Reaction\u2010Induced Dynamic Evolution of In2O3 During the Reverse Water\u2010Gas Shift (RWGS) Reaction",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76473?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 02 Nov 2026 00:29:14 -0800"
+        "date": "Mon, 02 Nov 2026 06:38:05 -0800"
+    },
+    {
+        "title": "Laser writing creates nanoscale patterns of superconductivity",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70526.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 12:46:59 GMT"
+    },
+    {
+        "title": "Light-controlled liquid crystals enable reversible tuning of optical metasurfaces",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70525.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 09:18:11 GMT"
+    },
+    {
+        "title": "Infrared-transparent aerogel improves passive cooling without electricity",
+        "link": "https://www.nanowerk.com/news2/green/newsid=70524.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 08:53:25 GMT"
+    },
+    {
+        "title": "New air bearing scanner targets metrology and wafer inspection",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70523.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 03 Nov 2026 08:43:26 GMT"
     },
     {
         "title": "Optical cavities offer new control over laser-induced dewetting of gold thin films",
@@ -144,34 +168,16 @@
         "date": "Sun, 01 Nov 2026 22:15:30 GMT"
     },
     {
-        "title": "Tiny photonic chip links telescopes to reveal the universe in greater detail",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70516.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 30 Oct 2026 17:31:26 GMT"
-    },
-    {
-        "title": "Customizable nanoparticles improve cancer vaccine protection in mice",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70515.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 30 Oct 2026 17:12:32 GMT"
-    },
-    {
-        "title": "AI uncovers 33 overlooked 2D materials and inspires 11 new ones",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70514.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 30 Oct 2026 11:14:50 GMT"
-    },
-    {
-        "title": "Salt-assisted crystal growth boosts perovskite solar cell and LED performance",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70513.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 30 Oct 2026 11:06:16 GMT"
-    },
-    {
         "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
         "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
         "source": "Nanotechnology News -- ScienceDaily",
         "date": "Mon, 02 Nov 2026 08:42:07 EST"
+    },
+    {
+        "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Mon, 02 Nov 2026 21:39:04 EST"
     },
     {
         "title": "Scientists shrink Archimedes\u2019 screw to the size of a single molecule",
@@ -222,10 +228,16 @@
         "date": "Thu, 22 Oct 2026 07:30:49 EDT"
     },
     {
-        "title": "Scientists reach the ultimate quantum limit on a surface",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Mon, 19 Oct 2026 23:02:41 EDT"
+        "title": "Nanozyme Cuts Liver Fibrosis While Revealing Disease Stage On MRI",
+        "link": "https://www.azonano.com/news.aspx?newsID=41886",
+        "source": "AZoNano.com",
+        "date": "Tue, 03 Nov 2026 05:32:00 -0500"
+    },
+    {
+        "title": "A Flexible New Route to Designer Materials Built From Nanoparticles",
+        "link": "https://www.azonano.com/news.aspx?newsID=41885",
+        "source": "AZoNano.com",
+        "date": "Tue, 03 Nov 2026 05:58:00 -0500"
     },
     {
         "title": "Anti-CD44 Nanoplatform Targets Glioblastoma Cells With Dual Ferroptosis and Photothermal Therapy",
@@ -274,17 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41877",
         "source": "AZoNano.com",
         "date": "Thu, 22 Oct 2026 07:35:00 -0500"
-    },
-    {
-        "title": "Hybrid Nanoparticles Boost p53 mRNA Delivery in Breast Cancer Models",
-        "link": "https://www.azonano.com/news.aspx?newsID=41876",
-        "source": "AZoNano.com",
-        "date": "Wed, 21 Oct 2026 06:43:00 -0500"
-    },
-    {
-        "title": "PI Introduces A-323 Air Bearing Scanner, Built in the USA for High-Throughput Wafer Metrology",
-        "link": "https://www.azonano.com/news.aspx?newsID=41875",
-        "source": "AZoNano.com",
-        "date": "Wed, 21 Oct 2026 01:33:00 -0500"
     }
 ]
