@@ -108,6 +108,18 @@
         "date": "Thu, 05 Nov 2026 05:26:56 -0800"
     },
     {
+        "title": "38 science gifts that surprise, from glowing plankton to meteorites",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70563.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 06 Nov 2026 19:58:10 GMT"
+    },
+    {
+        "title": "Atom-scale model reveals key chemistry behind silicon carbide crystal growth",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70562.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Fri, 06 Nov 2026 19:33:10 GMT"
+    },
+    {
         "title": "AI-assisted design could enable larger, more capable optical metasurfaces",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70561.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -154,18 +166,6 @@
         "link": "https://www.nanowerk.com/news2/space/newsid=70554.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Fri, 06 Nov 2026 11:51:02 GMT"
-    },
-    {
-        "title": "Traditional Korean paper becomes a breathable patch for drug delivery and sweat sensing",
-        "link": "https://www.nanowerk.com/news2/health/newsid=70553.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 06 Nov 2026 11:44:24 GMT"
-    },
-    {
-        "title": "Timed light exposure lets 3D printers create moving microgears with subpixel gaps",
-        "link": "https://www.nanowerk.com/news2/gadget/newsid=70552.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Thu, 05 Nov 2026 17:44:42 GMT"
     },
     {
         "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
@@ -228,6 +228,12 @@
         "date": "Wed, 28 Oct 2026 23:39:27 EDT"
     },
     {
+        "title": "Transformable Peptide Nanoparticles Curb Bladder Tumors While Reducing Doxorubicin Toxicity In Mice",
+        "link": "https://www.azonano.com/news.aspx?newsID=41893",
+        "source": "AZoNano.com",
+        "date": "Fri, 06 Nov 2026 08:39:00 -0500"
+    },
+    {
         "title": "Advancing Data Encryption Through Tunable Carbon Dot-Based Fluorescent Optical Materials",
         "link": "https://www.azonano.com/news.aspx?newsID=41892",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41884",
         "source": "AZoNano.com",
         "date": "Fri, 30 Oct 2026 07:35:00 -0500"
-    },
-    {
-        "title": "PI Unveils 6-DOF MagLev Stages for Hybrid Bonding and Wafer Inspection",
-        "link": "https://www.azonano.com/news.aspx?newsID=41883",
-        "source": "AZoNano.com",
-        "date": "Fri, 30 Oct 2026 04:26:00 -0500"
     }
 ]
