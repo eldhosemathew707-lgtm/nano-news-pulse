@@ -1,5 +1,11 @@
 [
     {
+        "title": "Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr<sub>2</sub>",
+        "link": "https://www.nature.com/articles/s41565-026-02331-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Endogenous virus-like extracellular vesicles enhance the efficacy of cancer vaccines",
         "link": "https://www.nature.com/articles/s41565-026-02303-0",
         "source": "Nature Nanotechnology",
@@ -38,12 +44,6 @@
     {
         "title": "Supramolecular chemical ligation of helical polymers",
         "link": "https://www.nature.com/articles/s41565-026-02310-1",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Stacking-specific two-dimensional In<sub>2</sub>Se<sub>3</sub> for ferroelectric homojunctions",
-        "link": "https://www.nature.com/articles/s41565-026-02309-8",
         "source": "Nature Nanotechnology",
         "date": "Latest"
     },
@@ -108,6 +108,30 @@
         "date": "Fri, 06 Nov 2026 10:22:47 -0800"
     },
     {
+        "title": "Atomic-scale catalyst design could improve CO2-to-ethanol conversion",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70570.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 09 Nov 2026 15:31:46 GMT"
+    },
+    {
+        "title": "Common nanoplastics trigger lung inflammation in mice",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70569.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 09 Nov 2026 13:19:40 GMT"
+    },
+    {
+        "title": "How bacteria assemble the low-friction bearing in their swimming motors",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70568.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 09 Nov 2026 13:08:40 GMT"
+    },
+    {
+        "title": "SS-31 liposomes and the problem of mitochondrial targeting",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70567.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 09 Nov 2026 12:56:22 GMT"
+    },
+    {
         "title": "Biodegradable microneedle particles boost drug delivery through the skin",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70566.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -144,28 +168,10 @@
         "date": "Fri, 06 Nov 2026 14:30:57 GMT"
     },
     {
-        "title": "Nanomaterial-based flexible films achieve over 100 dB electromagnetic shielding",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70560.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 06 Nov 2026 14:21:23 GMT"
-    },
-    {
-        "title": "Planck data rule out enormous primordial black holes as major dark matter source",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70559.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 06 Nov 2026 14:11:34 GMT"
-    },
-    {
-        "title": "Physicists create first tunable three-component Hubbard system",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70558.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 06 Nov 2026 14:05:21 GMT"
-    },
-    {
-        "title": "New roadmap aims to harness electron spin for better catalysts",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70557.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 06 Nov 2026 12:17:15 GMT"
+        "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Mon, 09 Nov 2026 06:19:39 EST"
     },
     {
         "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
@@ -222,10 +228,10 @@
         "date": "Fri, 30 Oct 2026 22:09:38 EDT"
     },
     {
-        "title": "Scientists discover metals that defy the deep freeze at -424\u00b0F",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Sat, 31 Oct 2026 08:45:59 EDT"
+        "title": "Hierarchical Carbon Nanospheres Increase Salt Removal In Flow-Electrode Desalination",
+        "link": "https://www.azonano.com/news.aspx?newsID=41894",
+        "source": "AZoNano.com",
+        "date": "Mon, 09 Nov 2026 06:08:00 -0500"
     },
     {
         "title": "Transformable Peptide Nanoparticles Curb Bladder Tumors While Reducing Doxorubicin Toxicity In Mice",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41885",
         "source": "AZoNano.com",
         "date": "Tue, 03 Nov 2026 05:58:00 -0500"
-    },
-    {
-        "title": "Anti-CD44 Nanoplatform Targets Glioblastoma Cells With Dual Ferroptosis and Photothermal Therapy",
-        "link": "https://www.azonano.com/news.aspx?newsID=41884",
-        "source": "AZoNano.com",
-        "date": "Fri, 30 Oct 2026 07:35:00 -0500"
     }
 ]
