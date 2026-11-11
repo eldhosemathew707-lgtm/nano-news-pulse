@@ -1,5 +1,11 @@
 [
     {
+        "title": "Interfaces are a nano problem",
+        "link": "https://www.nature.com/articles/s41565-026-02348-1",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr<sub>2</sub>",
         "link": "https://www.nature.com/articles/s41565-026-02331-w",
         "source": "Nature Nanotechnology",
@@ -38,12 +44,6 @@
     {
         "title": "NanostarDB: an interactive knowledgebase for standardized annotation, discovery and reuse of nucleic acid nanostructure designs",
         "link": "https://www.nature.com/articles/s41565-026-02307-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Supramolecular chemical ligation of helical polymers",
-        "link": "https://www.nature.com/articles/s41565-026-02310-1",
         "source": "Nature Nanotechnology",
         "date": "Latest"
     },
@@ -108,6 +108,42 @@
         "date": "Mon, 09 Nov 2026 23:06:20 -0800"
     },
     {
+        "title": "Nature-inspired metamaterials absorb impacts better by breaking structural patterns",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70589.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 17:38:22 GMT"
+    },
+    {
+        "title": "A two-part nanozyme targets the inflammatory loop linked to colon cancer",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70588.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 17:04:26 GMT"
+    },
+    {
+        "title": "Glass does surprising things when stretched 1 atom wide",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70587.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 15:57:22 GMT"
+    },
+    {
+        "title": "Gold-copper method builds interlocked carbon nanohoops in just eight steps",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70586.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 15:41:17 GMT"
+    },
+    {
+        "title": "Inspired by elephant trunks, these shape-shifting robots bend, grab and team up",
+        "link": "https://www.nanowerk.com/news2/robotics/newsid=70585.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 15:32:22 GMT"
+    },
+    {
+        "title": "Atomic steps on copper control how graphene layers stack",
+        "link": "https://www.nanowerk.com/spotlight/spotid=70584.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Wed, 11 Nov 2026 15:17:58 GMT"
+    },
+    {
         "title": "Autonomous robot swarms could explore Mars caves without GPS",
         "link": "https://www.nanowerk.com/news2/space/newsid=70583.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -130,42 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70580.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Tue, 10 Nov 2026 16:21:36 GMT"
-    },
-    {
-        "title": "Piezo stage offers 3nm resolution, 50mm travel, 75N drive and holding force",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70579.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 16:02:01 GMT"
-    },
-    {
-        "title": "Nanoparticles could teach the immune system to tolerate gluten",
-        "link": "https://www.nanowerk.com/spotlight/spotid=70578.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 13:09:58 GMT"
-    },
-    {
-        "title": "Palladium nanoparticle grain boundaries enable hydrogen sensing in hot, humid air",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70577.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 12:36:01 GMT"
-    },
-    {
-        "title": "Ionic liquids enable nanoscale etching of metal-organic frameworks at room temperature",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70576.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 11:48:51 GMT"
-    },
-    {
-        "title": "Nanoscale indentation recrystallizes molybdenum without heating",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70575.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 11:36:36 GMT"
-    },
-    {
-        "title": "New mathematical framework classifies symmetry in layered and entangled materials",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70574.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 10 Nov 2026 11:29:37 GMT"
     },
     {
         "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
