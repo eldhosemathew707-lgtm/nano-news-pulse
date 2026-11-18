@@ -1,5 +1,23 @@
 [
     {
+        "title": "A pluripotent source of immune tolerance",
+        "link": "https://www.nature.com/articles/s41565-026-02291-1",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "Pluripotent stem cell-derived extracellular vesicles for systemic immune modulation in diabetes therapy",
+        "link": "https://www.nature.com/articles/s41565-026-02320-z",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
+        "title": "An extracellular contractile injection system for receptor-mediated protein delivery into plant cells",
+        "link": "https://www.nature.com/articles/s41565-026-02323-w",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Interfaces are a nano problem",
         "link": "https://www.nature.com/articles/s41565-026-02348-1",
         "source": "Nature Nanotechnology",
@@ -30,142 +48,130 @@
         "date": "Latest"
     },
     {
-        "title": "Three-dimensional imaging of individual carbon atoms",
-        "link": "https://www.nature.com/articles/s41565-026-02316-9",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "Rational design of lipid nanoparticles for brain delivery of RNA therapeutics",
-        "link": "https://www.nature.com/articles/s41565-026-02326-7",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "NanostarDB: an interactive knowledgebase for standardized annotation, discovery and reuse of nucleic acid nanostructure designs",
-        "link": "https://www.nature.com/articles/s41565-026-02307-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
-    },
-    {
-        "title": "High\u2010Entropy Prussian Blue Analogues Enable Ultrastable Sodium Storage Via Charge Redistribution\u2010Induced Jahn\u2013Teller Suppression",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76634?af=R",
+        "title": "Interface\u2010Engineered Conformal CNT Forests on 3D Architected Scaffolds for Enhanced Charge Transport and Mechanical Resilience",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76109?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Tue, 17 Nov 2026 00:38:04 -0800"
+        "date": "Tue, 17 Nov 2026 23:36:00 -0800"
     },
     {
-        "title": "Oxygen\u2010Plasma\u2010Induced Surface Reconstruction of WSe2 Enables Nonvolatile Optoelectronic Synapses for in\u2010Sensor Neuromorphic Vision",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76280?af=R",
+        "title": "Atomic\u2010Scale Structural Heterogeneity Regulates Polarization Reversibility for High\u2010Performance Energy Storage in Lead\u2010Free Relaxor Ferroelectrics",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76726?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 23:03:47 -0800"
+        "date": "Tue, 17 Nov 2026 23:07:54 -0800"
     },
     {
-        "title": "Molecular\u2013Interfacial Synergistic Engineering Enables Efficient Vitrification of the Whole Rat Ovary",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75900?af=R",
+        "title": "Efficient UV\u2010Curing Transfer Printing of Liquid\u2010Metal/Ag\u2010Nanowire Dual\u2010Conductive Layers for Soft\u2013Rigid Integrated Stretchable Electronics",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76753?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 22:58:54 -0800"
+        "date": "Tue, 17 Nov 2026 22:57:43 -0800"
     },
     {
-        "title": "Nanoscale Reduced\u2010Porphyrinic Covalent Organic Frameworks with Modulated Absorption for Enhanced Photodynamic Therapy",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76729?af=R",
+        "title": "Controlling Spin\u2010Valley Splittings in Two\u2010Dimensional Antiferromagnets With Bicircularly Polarized Light",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76547?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 22:17:44 -0800"
+        "date": "Tue, 17 Nov 2026 22:42:50 -0800"
     },
     {
-        "title": "Spatially Programmed Coordination Relay by Zwitterionic COF Nanosheets for Low\u2010Temperature Lithium Metal Batteries",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76640?af=R",
+        "title": "A miRpair\u2010Based Molecular Comparator for Lung Cancer Diagnosis",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76763?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 22:05:40 -0800"
+        "date": "Tue, 17 Nov 2026 22:35:41 -0800"
     },
     {
-        "title": "Self\u2010Assembly and Bimodal Chemical Activation of Dibromodibenzothiophene S\u2010Oxide on Au(111)",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76659?af=R",
+        "title": "Glutathione\u2010Triggered Synergistically Enhanced Dual\u2010Modality Magnetic Resonance Imaging for Tumor Diagnosis",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76749?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 21:58:46 -0800"
+        "date": "Tue, 17 Nov 2026 22:22:24 -0800"
     },
     {
-        "title": "Ultrafine Ru Nanocluster Reservoirs Enable Dynamic Access to Mn\u2010Related Sites for Stabilizing Lattice Oxygen in Li\u2010Rich Layered Oxide Cathodes",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76707?af=R",
+        "title": "Reconciling the Modulus\u2013Damping Trade\u2010Off in Polyurethane via Confined Long\u2010Chain Hyperbranched Fluids",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76715?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 04:36:33 -0800"
+        "date": "Tue, 17 Nov 2026 22:16:25 -0800"
     },
     {
-        "title": "Multimodal Nanohybrid Artificial Antibodies as PD\u2010L1 Immune Checkpoint Antagonists for Potentiated Combination Cancer Immunotherapy",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76751?af=R",
+        "title": "Innovative Double\u2010Crosslinked Nanocellulose Aerogels for Enhanced Triboelectric Nanogenerators",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76764?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 04:32:01 -0800"
+        "date": "Tue, 17 Nov 2026 22:12:50 -0800"
     },
     {
-        "title": "Correction to \u201cSilk Composite Electronic Textile Sensor for High Space Precision 2D Combo Temperature\u2013Pressure Sensing\u201d",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76706?af=R",
+        "title": "Solar Water Evaporation with BiSn Core\u2013Shell Particles: Interfacial Water and Wetting\u2010Dependent Light Absorption",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76791?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 04:12:45 -0800"
+        "date": "Tue, 17 Nov 2026 21:58:34 -0800"
     },
     {
-        "title": "Exogenous Calcium Silicate\u2010Primed Mitochondria Reverse Diabetic Wound Chronicity via Dual Proteolytic Regulation and Metabolic Reprogramming",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76711?af=R",
+        "title": "Frozen Electric Double Layers Enable Redox\u2010Window\u2010Unlimited Ultrahigh Current Injection in Monolayer Light\u2010Emitting Devices",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76581?af=R",
         "source": "Wiley: Small: Table of Contents",
-        "date": "Mon, 16 Nov 2026 04:07:42 -0800"
+        "date": "Tue, 17 Nov 2026 07:00:19 -0800"
     },
     {
-        "title": "Nanogap device produces sharp light emission without a laser",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70620.php?utm_source=rss&utm_medium=rss",
+        "title": "Nanocomposite aerogel speeds heating and strengthens carbon-composite welds",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70630.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 17:16:27 GMT"
+        "date": "Wed, 18 Nov 2026 15:41:09 GMT"
     },
     {
-        "title": "How metal-organic frameworks could improve ultrasound cancer therapy",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70619.php?utm_source=rss&utm_medium=rss",
+        "title": "Disabling cells' 'clean-up crew' could speed drug target production",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70629.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 16:44:37 GMT"
+        "date": "Wed, 18 Nov 2026 15:26:25 GMT"
     },
     {
-        "title": "AI agent lets scientists design complex metal alloys through simple chat (w/video)",
-        "link": "https://www.nanowerk.com/news2/robotics/newsid=70618.php?utm_source=rss&utm_medium=rss",
+        "title": "Scientists create animal cell containing nearly an entire algal genome",
+        "link": "https://www.nanowerk.com/news2/biotech/newsid=70628.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 16:33:52 GMT"
+        "date": "Wed, 18 Nov 2026 15:16:21 GMT"
     },
     {
-        "title": "Simulations explain why black hole jets glow at their edges",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70617.php?utm_source=rss&utm_medium=rss",
+        "title": "AI and gold nanopillars enable five-minute drug screening from urine",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70627.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 11:36:58 GMT"
+        "date": "Wed, 18 Nov 2026 12:52:18 GMT"
     },
     {
-        "title": "Molecular bridges make lithium-ion battery electrodes more durable",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70616.php?utm_source=rss&utm_medium=rss",
+        "title": "Scientists search for atomic number zero in nuclei made entirely of neutrons",
+        "link": "https://www.nanowerk.com/news2/space/newsid=70626.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 10:20:40 GMT"
+        "date": "Wed, 18 Nov 2026 12:26:50 GMT"
     },
     {
-        "title": "Evaporating droplets turn quantum dots into surprising patterns",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70615.php?utm_source=rss&utm_medium=rss",
+        "title": "Square-meter nanomaterial films deliver over 100 dB electromagnetic shielding",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70625.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 10:08:27 GMT"
+        "date": "Wed, 18 Nov 2026 12:04:58 GMT"
     },
     {
-        "title": "Flipped atom-thin layers could steer heat in 3D computer chips",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70614.php?utm_source=rss&utm_medium=rss",
+        "title": "Gold nanoclusters reveal how carbon bonding changes with atom count",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70624.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 10:00:35 GMT"
+        "date": "Wed, 18 Nov 2026 11:50:09 GMT"
     },
     {
-        "title": "Molecular coating helps nanomembranes remove antibiotics from water",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70613.php?utm_source=rss&utm_medium=rss",
+        "title": "Light switches molecular states within spaces just tens of nanometers wide",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70623.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 09:51:16 GMT"
+        "date": "Wed, 18 Nov 2026 08:26:16 GMT"
     },
     {
-        "title": "Smart pillowcase tracks heart rate, breathing and sleep position",
-        "link": "https://www.nanowerk.com/news2/health/newsid=70612.php?utm_source=rss&utm_medium=rss",
+        "title": "Lasers just 115 nanometers long approach physical limits of miniaturization (w/video)",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70622.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Tue, 17 Nov 2026 09:41:14 GMT"
+        "date": "Wed, 18 Nov 2026 08:17:22 GMT"
     },
     {
-        "title": "New roadmap charts the future of flat optics and its real-world applications",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70611.php?utm_source=rss&utm_medium=rss",
+        "title": "New nanoparticle MRI probe measures acidity independent of probe concentration",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70621.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 16 Nov 2026 18:32:55 GMT"
+        "date": "Wed, 18 Nov 2026 08:04:39 GMT"
+    },
+    {
+        "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+        "source": "Nanotechnology News -- ScienceDaily",
+        "date": "Wed, 18 Nov 2026 07:26:20 EST"
     },
     {
         "title": "This remarkable new material could solve a major carbon capture problem",
@@ -222,10 +228,16 @@
         "date": "Sat, 07 Nov 2026 22:46:51 EST"
     },
     {
-        "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-        "source": "Nanotechnology News -- ScienceDaily",
-        "date": "Wed, 04 Nov 2026 05:43:44 EST"
+        "title": "SSbD Embeds Safety and Sustainability Into Early Nanomaterial Design",
+        "link": "https://www.azonano.com/news.aspx?newsID=41906",
+        "source": "AZoNano.com",
+        "date": "Wed, 18 Nov 2026 07:10:00 -0500"
+    },
+    {
+        "title": "PI More Than Doubles U.S. Manufacturing Output in 2026",
+        "link": "https://www.azonano.com/news.aspx?newsID=41905",
+        "source": "AZoNano.com",
+        "date": "Wed, 18 Nov 2026 00:49:00 -0500"
     },
     {
         "title": "Flat-Jet Laser Melting Controls Boron Carbide Sphere Growth In Continuous Flow",
@@ -274,17 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41897",
         "source": "AZoNano.com",
         "date": "Wed, 11 Nov 2026 00:28:00 -0500"
-    },
-    {
-        "title": "Piezo Stage Offers 3 nm Resolution, 50 mm Travel, 75 N Drive and Holding Force",
-        "link": "https://www.azonano.com/news.aspx?newsID=41896",
-        "source": "AZoNano.com",
-        "date": "Wed, 11 Nov 2026 00:20:00 -0500"
-    },
-    {
-        "title": "Graphene Immobilization Reduces MnO\u2093-Driven Gene Disruption in Lung Cells",
-        "link": "https://www.azonano.com/news.aspx?newsID=41895",
-        "source": "AZoNano.com",
-        "date": "Tue, 10 Nov 2026 07:35:00 -0500"
     }
 ]
