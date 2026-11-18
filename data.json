@@ -108,6 +108,24 @@
         "date": "Mon, 16 Nov 2026 04:07:42 -0800"
     },
     {
+        "title": "Nanogap device produces sharp light emission without a laser",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70620.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 17 Nov 2026 17:16:27 GMT"
+    },
+    {
+        "title": "How metal-organic frameworks could improve ultrasound cancer therapy",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70619.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 17 Nov 2026 16:44:37 GMT"
+    },
+    {
+        "title": "AI agent lets scientists design complex metal alloys through simple chat (w/video)",
+        "link": "https://www.nanowerk.com/news2/robotics/newsid=70618.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Tue, 17 Nov 2026 16:33:52 GMT"
+    },
+    {
         "title": "Simulations explain why black hole jets glow at their edges",
         "link": "https://www.nanowerk.com/news2/space/newsid=70617.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -148,24 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70611.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Mon, 16 Nov 2026 18:32:55 GMT"
-    },
-    {
-        "title": "Ant-inspired optical fiber lets robots smell gases and feel the wind at the same time",
-        "link": "https://www.nanowerk.com/spotlight/spotid=70610.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 16 Nov 2026 18:15:34 GMT"
-    },
-    {
-        "title": "Hidden magnetic layer masks the properties of promising spintronic material",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70609.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 16 Nov 2026 14:25:36 GMT"
-    },
-    {
-        "title": "How to smooth data while retaining essential features?",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70608.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Mon, 16 Nov 2026 14:17:44 GMT"
     },
     {
         "title": "This remarkable new material could solve a major carbon capture problem",
@@ -228,6 +228,12 @@
         "date": "Wed, 04 Nov 2026 05:43:44 EST"
     },
     {
+        "title": "Flat-Jet Laser Melting Controls Boron Carbide Sphere Growth In Continuous Flow",
+        "link": "https://www.azonano.com/news.aspx?newsID=41904",
+        "source": "AZoNano.com",
+        "date": "Tue, 17 Nov 2026 10:52:00 -0500"
+    },
+    {
         "title": "Peptide Design Lets CO2 Control Gold Nanoparticle Assembly and Hydrogel Patterns",
         "link": "https://www.azonano.com/news.aspx?newsID=41903",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41895",
         "source": "AZoNano.com",
         "date": "Tue, 10 Nov 2026 07:35:00 -0500"
-    },
-    {
-        "title": "Hierarchical Carbon Nanospheres Increase Salt Removal In Flow-Electrode Desalination",
-        "link": "https://www.azonano.com/news.aspx?newsID=41894",
-        "source": "AZoNano.com",
-        "date": "Mon, 09 Nov 2026 06:08:00 -0500"
     }
 ]
