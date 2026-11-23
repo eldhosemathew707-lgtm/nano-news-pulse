@@ -1,5 +1,11 @@
 [
     {
+        "title": "Depth-robust super-resolution nanofabrication for 3D mesoscopic photonic structures",
+        "link": "https://www.nature.com/articles/s41565-026-02335-6",
+        "source": "Nature Nanotechnology",
+        "date": "Latest"
+    },
+    {
         "title": "Tracking local chemomechanics in graphite\u2013silicon composite electrodes",
         "link": "https://www.nature.com/articles/s41565-026-02328-5",
         "source": "Nature Nanotechnology",
@@ -42,10 +48,28 @@
         "date": "Latest"
     },
     {
-        "title": "Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr<sub>2</sub>",
-        "link": "https://www.nature.com/articles/s41565-026-02331-w",
-        "source": "Nature Nanotechnology",
-        "date": "Latest"
+        "title": "Self\u2010Active Lipid Nanocapsules Induce GLP\u20111 Receptor\u2010Dependent Signaling and Enhance Glucose\u2010Stimulated Insulin Secretion",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76591?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 23 Nov 2026 00:50:39 -0800"
+    },
+    {
+        "title": "Charge\u2010Regulated Ion Transport in Cyclodextrin\u2010Functionalized Nanochannels for Chiral Sensing",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76630?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 23 Nov 2026 00:44:45 -0800"
+    },
+    {
+        "title": "Ambient\u2010Pressure\u2010Dried Chitin Nanofibril/Zein Biofoams for Lightweight Thermal Insulation",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76675?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Mon, 23 Nov 2026 00:42:36 -0800"
+    },
+    {
+        "title": "Light\u2010Mediated Electrification in Interface\u2010Engineered Quasi\u20102D Perovskite Triboelectric Nanogenerators for Self\u2010Powered Data Encoding",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76816?af=R",
+        "source": "Wiley: Small: Table of Contents",
+        "date": "Sun, 22 Nov 2026 23:59:54 -0800"
     },
     {
         "title": "Widening the Selectivity Gap: Dual\u2010Polymer Molecularly Imprinted System for Lectin Recognition",
@@ -84,28 +108,22 @@
         "date": "Fri, 20 Nov 2026 05:43:39 -0800"
     },
     {
-        "title": "Inverse Design of Polyarylate Nanofiber\u2010Enabled Basalt Scale Nanocomposite Insulating Paper for High Dielectric Reliability via Finite Element\u2010Guided Machine Learning",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76843?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Fri, 20 Nov 2026 05:40:29 -0800"
+        "title": "New type of chiral phonon in altermagnets could advance spintronics",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70661.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 23 Nov 2026 16:53:36 GMT"
     },
     {
-        "title": "Monolayer h\u2010BN RF Switch Toward Monolithic Inductor Switching in Wide\u2010Tuning\u2010Range LC\u2010VCOs",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76847?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Fri, 20 Nov 2026 05:37:48 -0800"
+        "title": "Recycling food waste for micronutrients",
+        "link": "https://www.nanowerk.com/news2/green/newsid=70660.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 23 Nov 2026 16:44:49 GMT"
     },
     {
-        "title": "Morphological Transitions During PISA Not Strictly Governed by the Packing Parameter Rule Evidenced from Time\u2010Resolved SAXS",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76780?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Fri, 20 Nov 2026 05:35:59 -0800"
-    },
-    {
-        "title": "Multilevel Asymmetric Janus Nanofabric with Universal Adhesion and Robust Reliability for Preventive Protection of Cultural Heritage",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76859?af=R",
-        "source": "Wiley: Small: Table of Contents",
-        "date": "Fri, 20 Nov 2026 05:33:41 -0800"
+        "title": "'Self-reflective' robot recognizes its limitations",
+        "link": "https://www.nanowerk.com/news2/robotics/newsid=70659.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Mon, 23 Nov 2026 16:38:04 GMT"
     },
     {
         "title": "Computing with vibrations using heat-controlled logic gates",
@@ -148,24 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70652.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Fri, 20 Nov 2026 13:27:28 GMT"
-    },
-    {
-        "title": "Fluorescent polymer nanoparticles combine cell imaging with light-activated cancer therapy potential",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70651.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 20 Nov 2026 13:20:23 GMT"
-    },
-    {
-        "title": "Inkjet-based fabrication advances the mass production of chip-scale atomic clocks",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70650.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 20 Nov 2026 13:10:00 GMT"
-    },
-    {
-        "title": "Wrinkled silicon nanomembranes reveal nanoscale strain through changes in light polarization",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70649.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Fri, 20 Nov 2026 13:01:10 GMT"
     },
     {
         "title": "Einstein\u2019s relativity just upended a fundamental rule of chemistry",
@@ -228,6 +228,18 @@
         "date": "Mon, 09 Nov 2026 19:42:52 EST"
     },
     {
+        "title": "Shuriken-Shaped Gold Network Drives Ultrasensitive Chiral Sensing and Selective Photochemistry",
+        "link": "https://www.azonano.com/news.aspx?newsID=41911",
+        "source": "AZoNano.com",
+        "date": "Mon, 23 Nov 2026 05:32:00 -0500"
+    },
+    {
+        "title": "Folded Nanophotonic Metasurfaces Achieve Terabit Speeds in Visible Light Communication",
+        "link": "https://www.azonano.com/news.aspx?newsID=41910",
+        "source": "AZoNano.com",
+        "date": "Mon, 23 Nov 2026 01:05:00 -0500"
+    },
+    {
         "title": "Researchers Create MRI-Detectable Nanoparticle-Loaded Stem Cell Vesicles That Reduce Inflammatory Gene Expression",
         "link": "https://www.azonano.com/news.aspx?newsID=41909",
         "source": "AZoNano.com",
@@ -274,17 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41902",
         "source": "AZoNano.com",
         "date": "Tue, 17 Nov 2026 00:56:00 -0500"
-    },
-    {
-        "title": "Freestanding Nanomembrane Sensor Reads Ultranarrow Quasi-BIC Resonances Through Light Emission",
-        "link": "https://www.azonano.com/news.aspx?newsID=41901",
-        "source": "AZoNano.com",
-        "date": "Fri, 13 Nov 2026 07:15:00 -0500"
-    },
-    {
-        "title": "Researchers Tune LDH Nanofillers to Make Transparent PMMA More Resistant to Heat and UV",
-        "link": "https://www.azonano.com/news.aspx?newsID=41900",
-        "source": "AZoNano.com",
-        "date": "Thu, 12 Nov 2026 08:14:00 -0500"
     }
 ]
