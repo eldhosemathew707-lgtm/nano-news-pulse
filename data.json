@@ -108,6 +108,24 @@
         "date": "Wed, 25 Nov 2026 10:40:36 -0800"
     },
     {
+        "title": "A roadmap for integrated photonics to miniaturize augmented reality glasses",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70688.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 26 Nov 2026 23:00:08 GMT"
+    },
+    {
+        "title": "3D printing for electric motors: A review of design advances and manufacturing challenges",
+        "link": "https://www.nanowerk.com/news2/gadget/newsid=70687.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 26 Nov 2026 22:49:53 GMT"
+    },
+    {
+        "title": "Graphene in quantum metrology: A review of real-world applications and advances",
+        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70686.php?utm_source=rss&utm_medium=rss",
+        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
+        "date": "Thu, 26 Nov 2026 22:41:32 GMT"
+    },
+    {
         "title": "Nanoscale water layers reveal design rules for seashell-inspired materials",
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70685.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
@@ -148,24 +166,6 @@
         "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70679.php?utm_source=rss&utm_medium=rss",
         "source": "Nanowerk Nanotechnology and Emerging Technologies News",
         "date": "Wed, 25 Nov 2026 22:01:12 GMT"
-    },
-    {
-        "title": "Hera reveals stadium-sized asteroid crater from spacecraft",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70678.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 25 Nov 2026 21:47:30 GMT"
-    },
-    {
-        "title": "Does dark matter leave fingerprints on the Universe?",
-        "link": "https://www.nanowerk.com/news2/space/newsid=70677.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 25 Nov 2026 21:28:55 GMT"
-    },
-    {
-        "title": "Electrons in carbon nanotubes don't behave as scientists once thought",
-        "link": "https://www.nanowerk.com/nanotechnology-news3/newsid=70676.php?utm_source=rss&utm_medium=rss",
-        "source": "Nanowerk Nanotechnology and Emerging Technologies News",
-        "date": "Wed, 25 Nov 2026 15:36:35 GMT"
     },
     {
         "title": "A simple metal is hiding a strange new form of magnetism",
@@ -228,6 +228,12 @@
         "date": "Wed, 11 Nov 2026 23:07:24 EST"
     },
     {
+        "title": "Bilayer Metalenses Tackle Reflection Losses to Deliver Sharper Optical Performance",
+        "link": "https://www.azonano.com/news.aspx?newsID=41917",
+        "source": "AZoNano.com",
+        "date": "Thu, 26 Nov 2026 11:57:00 -0500"
+    },
+    {
         "title": "Plasmonic Nano-Candles Detect Hydrogen in Seconds and Probe Nanoscale Structural Changes",
         "link": "https://www.azonano.com/news.aspx?newsID=41916",
         "source": "AZoNano.com",
@@ -280,11 +286,5 @@
         "link": "https://www.azonano.com/news.aspx?newsID=41908",
         "source": "AZoNano.com",
         "date": "Thu, 19 Nov 2026 06:42:00 -0500"
-    },
-    {
-        "title": "Nanoengineered Gold Forest Boosts Faint Drug Light Signals Millionfold",
-        "link": "https://www.azonano.com/news.aspx?newsID=41907",
-        "source": "AZoNano.com",
-        "date": "Thu, 19 Nov 2026 00:45:00 -0500"
     }
 ]
